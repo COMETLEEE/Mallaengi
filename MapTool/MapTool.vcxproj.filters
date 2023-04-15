@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="PCH">
+      <UniqueIdentifier>{faca9ed3-fb8a-4599-87b3-4ebb76f5de27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{05b90d64-3ce0-4823-82f0-26a62a055532}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main\Documents">
+      <UniqueIdentifier>{5f954213-ab47-4a04-9685-a98a74138fe2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main\MainView">
+      <UniqueIdentifier>{ed9caf5f-442c-42d8-84c5-cec36970317a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main\App">
+      <UniqueIdentifier>{5280d599-7531-4b74-a313-dc1a32264534}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main\MainFrame">
+      <UniqueIdentifier>{11bd0c5e-246f-4d7e-816c-d2e1a59794ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views">
+      <UniqueIdentifier>{2c704b9c-2c6e-4d54-afc9-fe0da05d6497}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views\Editor">
+      <UniqueIdentifier>{a884cd14-5b1d-4f5e-9939-6ec729cd7616}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views\MiniMap">
+      <UniqueIdentifier>{9aa45be2-f227-43a0-a3c9-fa933b154df3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views\Control">
+      <UniqueIdentifier>{62f5a4df-607c-412f-856c-7ea3bef343cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views\Control\Sheet">
+      <UniqueIdentifier>{db31b9b2-4e56-4b6a-b7d8-8ac2c237c5b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views\Control\Sheet\Page">
+      <UniqueIdentifier>{a4b6ca82-ca0b-4ce8-a091-3ff6e58ca47c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views\Control\Sheet\Page\Terrain">
+      <UniqueIdentifier>{3274f079-29b0-4ff8-aa5e-c3b6ec656b22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views\Control\Sheet\Page\Object">
+      <UniqueIdentifier>{4121422d-8832-47c0-a4cd-dfe101d045c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views\Editor\TileChanger">
+      <UniqueIdentifier>{5df75c5d-e888-44b8-8b92-7e5718c306e0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="MapToolView.h">
+      <Filter>Main\MainView</Filter>
+    </ClInclude>
+    <ClInclude Include="MapToolDoc.h">
+      <Filter>Main\Documents</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="MapTool.h">
+      <Filter>Main\App</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Main\MainFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="Control.h">
+      <Filter>Views\Control</Filter>
+    </ClInclude>
+    <ClInclude Include="Editor.h">
+      <Filter>Views\Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="MiniMap.h">
+      <Filter>Views\MiniMap</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlProperty.h">
+      <Filter>Views\Control\Sheet</Filter>
+    </ClInclude>
+    <ClInclude Include="Terrain.h">
+      <Filter>Views\Control\Sheet\Page\Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="PageManager.h">
+      <Filter>Views\Control\Sheet\Page</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Views\Control\Sheet\Page\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonManager.h" />
+    <ClInclude Include="TileChangerBox.h">
+      <Filter>Views\Editor\TileChanger</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>PCH</Filter>
+    </ClCompile>
+    <ClCompile Include="MapToolView.cpp">
+      <Filter>Main\MainView</Filter>
+    </ClCompile>
+    <ClCompile Include="MapToolDoc.cpp">
+      <Filter>Main\Documents</Filter>
+    </ClCompile>
+    <ClCompile Include="MapTool.cpp">
+      <Filter>Main\App</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Main\MainFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="Control.cpp">
+      <Filter>Views\Control</Filter>
+    </ClCompile>
+    <ClCompile Include="Editor.cpp">
+      <Filter>Views\Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="MiniMap.cpp">
+      <Filter>Views\MiniMap</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlProperty.cpp">
+      <Filter>Views\Control\Sheet</Filter>
+    </ClCompile>
+    <ClCompile Include="Terrain.cpp">
+      <Filter>Views\Control\Sheet\Page\Terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="PageManager.cpp">
+      <Filter>Views\Control\Sheet\Page</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Views\Control\Sheet\Page\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="JsonManager.cpp" />
+    <ClCompile Include="TileChangerBox.cpp">
+      <Filter>Views\Editor\TileChanger</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MapTool.rc">
+      <Filter>Resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\MapTool.rc2">
+      <Filter>Resources</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\MapToolDoc.ico">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="res\MapTool.ico">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>Resources</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

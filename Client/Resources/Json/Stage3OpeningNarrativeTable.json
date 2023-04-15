@@ -1,0 +1,122 @@
+﻿[
+  {
+    "ImageID": 10401,
+    "ImagePos": [ 0, 0 ],
+    "ImageSize": [ 924, 583 ],
+    "Delay": 0,
+    "Duration": 6,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10402,
+    "ImagePos": [ 0, 583 ],
+    "ImageSize": [ 924, 497 ],
+    "Delay": 2,
+    "Duration": 4,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10403,
+    "ImagePos": [ 924, 0 ],
+    "ImageSize": [ 996, 1080 ],
+    "Delay": 4,
+    "Duration": 2,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10404,
+    "ImagePos": [ 0, 0 ],
+    "ImageSize": [ 1920, 1080 ],
+    "Delay": 9,
+    "Duration": 1.5,
+    "AlphaSpeed": 5
+  },
+  {
+    "ImageID": 10405,
+    "ImagePos": [ 0, 0 ],
+    "ImageSize": [ 1920, 1080 ],
+    "Delay": 10.5,
+    "Duration": 1.35,
+    "AlphaSpeed": 0
+  },
+  {
+    "ImageID": 10406,
+    "ImagePos": [ 0, 0 ],
+    "ImageSize": [ 1920, 1080 ],
+    "Delay": 11.85,
+    "Duration": 1.2,
+    "AlphaSpeed": 0
+  },
+  {
+    "ImageID": 10407,
+    "ImagePos": [ 0, 0 ],
+    "ImageSize": [ 1920, 1080 ],
+    "Delay": 13.05,
+    "Duration": 1.05,
+    "AlphaSpeed": 0
+  },
+  {
+    "ImageID": 10408,
+    "ImagePos": [ 0, 0 ],
+    "ImageSize": [ 1920, 1080 ],
+    "Delay": 14.1,
+    "Duration": 0.9,
+    "AlphaSpeed": 0
+  },
+  {
+    "ImageID": 10409,
+    "ImagePos": [ 0, 0 ],
+    "ImageSize": [ 1920, 1080 ],
+    "Delay": 15,
+    "Duration": 0.75,
+    "AlphaSpeed": 0
+  },
+  {
+    "ImageID": 10410,
+    "ImagePos": [ 0, 0 ],
+    "ImageSize": [ 1920, 1080 ],
+    "Delay": 15.75,
+    "Duration": 0.6,
+    "AlphaSpeed": 0
+  },
+  {
+    "ImageID": 10411,
+    "ImagePos": [ 0, 0 ],
+    "ImageSize": [ 1920, 1080 ],
+    "Delay": 16.35,
+    "Duration": 0.45,
+    "AlphaSpeed": 0
+  },
+  {
+    "ImageID": 10412,
+    "ImagePos": [ 0, 0 ],
+    "ImageSize": [ 1920, 1080 ],
+    "Delay": 16.8,
+    "Duration": 0.3,
+    "AlphaSpeed": 0
+  },
+  {
+    "ImageID": 10413,
+    "ImagePos": [ 0, 0 ],
+    "ImageSize": [ 1920, 1080 ],
+    "Delay": 17.1,
+    "Duration": 0.15,
+    "AlphaSpeed": 0
+  },
+  {
+    "ImageID": 10414,
+    "ImagePos": [ 0, 0 ],
+    "ImageSize": [ 1920, 1080 ],
+    "Delay": 22.1,
+    "Duration": 2,
+    "AlphaSpeed": 5
+  },
+  {
+    "ImageID": 10415,
+    "ImagePos": [ 0, 0 ],
+    "ImageSize": [ 1920, 1080 ],
+    "Delay": 24.1,
+    "Duration": 2,
+    "AlphaSpeed": 1
+  }
+]

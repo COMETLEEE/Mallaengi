@@ -1,0 +1,146 @@
+﻿[
+  {
+    "ImageID": 10601,
+    "ImagePos": [ 0, 0 ],
+    "ImageSize": [ 556, 1080 ],
+    "Delay": 0,
+    "Duration": 12,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10602,
+    "ImagePos": [ 556, 0 ],
+    "ImageSize": [ 778, 536 ],
+    "Delay": 2,
+    "Duration": 10,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10603,
+    "ImagePos": [ 556, 0 ],
+    "ImageSize": [ 778, 536 ],
+    "Delay": 4,
+    "Duration": 8,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10604,
+    "ImagePos": [ 556, 0 ],
+    "ImageSize": [ 778, 536 ],
+    "Delay": 6,
+    "Duration": 6,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10605,
+    "ImagePos": [ 556, 536 ],
+    "ImageSize": [ 778, 544 ],
+    "Delay": 8,
+    "Duration": 4,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10606,
+    "ImagePos": [ 1334, 0 ],
+    "ImageSize": [ 590, 1080 ],
+    "Delay": 10,
+    "Duration": 2,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10607,
+    "ImagePos": [ 1334, 0 ],
+    "ImageSize": [ 590, 1080 ],
+    "Delay": 12,
+    "Duration": 42,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10608,
+    "ImagePos": [ 170, 500 ],
+    "ImageSize": [ 113, 66 ],
+    "Delay": 12,
+    "Duration": 10,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10609,
+    "ImagePos": [ 170, 650 ],
+    "ImageSize": [ 158, 57 ],
+    "Delay": 14,
+    "Duration": 2,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10610,
+    "ImagePos": [ 170, 650 ],
+    "ImageSize": [ 161, 57 ],
+    "Delay": 18,
+    "Duration": 2,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10611,
+    "ImagePos": [ 170, 500 ],
+    "ImageSize": [ 120, 62 ],
+    "Delay": 24,
+    "Duration": 10,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10612,
+    "ImagePos": [ 170, 650 ],
+    "ImageSize": [ 163, 55 ],
+    "Delay": 26,
+    "Duration": 2,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10613,
+    "ImagePos": [ 170, 650 ],
+    "ImageSize": [ 154, 56 ],
+    "Delay": 30,
+    "Duration": 2,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10614,
+    "ImagePos": [ 170, 500 ],
+    "ImageSize": [ 318, 64 ],
+    "Delay": 36,
+    "Duration": 18,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10615,
+    "ImagePos": [ 170, 650 ],
+    "ImageSize": [ 163, 56 ],
+    "Delay": 38,
+    "Duration": 2,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10616,
+    "ImagePos": [ 170, 650 ],
+    "ImageSize": [ 162, 56 ],
+    "Delay": 42,
+    "Duration": 2,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10617,
+    "ImagePos": [ 170, 650 ],
+    "ImageSize": [ 153, 58 ],
+    "Delay": 46,
+    "Duration": 2,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10618,
+    "ImagePos": [ 170, 650 ],
+    "ImageSize": [ 166, 57 ],
+    "Delay": 50,
+    "Duration": 2,
+    "AlphaSpeed": 1
+  }
+]

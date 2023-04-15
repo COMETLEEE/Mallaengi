@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="PCH">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="GameObject">
+      <UniqueIdentifier>{8fea4435-b752-4df3-90cf-7ba169b6f3c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Animator">
+      <UniqueIdentifier>{9faa43b8-15e7-4234-85ec-408fddbb54b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Transform">
+      <UniqueIdentifier>{2896784e-77ff-49cc-9868-48947bb16732}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core">
+      <UniqueIdentifier>{ea59e4ca-8dd1-4382-8419-3807daae9548}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Graphics">
+      <UniqueIdentifier>{109bb4bf-7b8f-488b-bd30-af390af66d86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Input">
+      <UniqueIdentifier>{1d0d661b-c4bc-47b1-9e56-94b3a079e076}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Timer">
+      <UniqueIdentifier>{dbcd1a2c-dc28-43e2-991c-8418d8d27ecc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{f7c935ca-77fa-4007-909f-c86fbbca91ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Collision">
+      <UniqueIdentifier>{02510560-fafa-487a-85a8-3c97ece9eaf5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Collision\AABBCollision">
+      <UniqueIdentifier>{f7904ad4-5101-44aa-bd8e-785636ff26bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Collision\CircleCollision">
+      <UniqueIdentifier>{0924e0af-eb7b-4862-827b-c0860e155b6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Engine">
+      <UniqueIdentifier>{2aab04f2-9a60-4741-bb40-64b2c397dfa9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Renderer">
+      <UniqueIdentifier>{c443201b-c4e5-4523-b6c4-4c7615ad628a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Renderer\SpriteRenderer">
+      <UniqueIdentifier>{4be25f2d-9b47-48a9-a2af-482d7e9936ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils\MGMath">
+      <UniqueIdentifier>{f381d345-15b3-44f1-ac60-ad4a7008b294}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Renderer\RectRenderer">
+      <UniqueIdentifier>{70eefe68-b3a5-4635-9994-25956f79d4cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils\Vector2D">
+      <UniqueIdentifier>{ed2bccdd-42a7-47ed-984b-e3359fedee87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Camera">
+      <UniqueIdentifier>{21270476-632d-43c0-a76a-cd2c46095f8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\AnimationClip">
+      <UniqueIdentifier>{64f78a97-d0d2-4835-9ab8-4efc30653a6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Sprite">
+      <UniqueIdentifier>{dabbd9a8-777a-4e8c-8033-691f98337569}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="코딩가이드라인">
+      <UniqueIdentifier>{42890e6e-6c27-4b44-aa2a-b7364fd2c582}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>GameObject\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphics.h">
+      <Filter>Core\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Core\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Core\Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="Transform.h">
+      <Filter>GameObject\Transform</Filter>
+    </ClInclude>
+    <ClInclude Include="Animator.h">
+      <Filter>GameObject\Animator</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision.h">
+      <Filter>GameObject\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="AABBCollision.h">
+      <Filter>GameObject\Collision\AABBCollision</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleCollision.h">
+      <Filter>GameObject\Collision\CircleCollision</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine.h">
+      <Filter>Core\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>GameObject\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>GameObject\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationClip.h">
+      <Filter>GameObject\AnimationClip</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteRenderer.h">
+      <Filter>GameObject\Renderer\SpriteRenderer</Filter>
+    </ClInclude>
+    <ClInclude Include="MGMath.h">
+      <Filter>Utils\MGMath</Filter>
+    </ClInclude>
+    <ClInclude Include="RectRenderer.h">
+      <Filter>GameObject\Renderer\RectRenderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2D.h">
+      <Filter>Utils\Vector2D</Filter>
+    </ClInclude>
+    <ClInclude Include="CodingGuideLine.h">
+      <Filter>코딩가이드라인</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>PCH</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>GameObject\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphics.cpp">
+      <Filter>Core\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>Core\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Core\Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="Transform.cpp">
+      <Filter>GameObject\Transform</Filter>
+    </ClCompile>
+    <ClCompile Include="Animator.cpp">
+      <Filter>GameObject\Animator</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision.cpp">
+      <Filter>GameObject\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="AABBCollision.cpp">
+      <Filter>GameObject\Collision\AABBCollision</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleCollision.cpp">
+      <Filter>GameObject\Collision\CircleCollision</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine.cpp">
+      <Filter>Core\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>GameObject\Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>GameObject\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationClip.cpp">
+      <Filter>GameObject\AnimationClip</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteRenderer.cpp">
+      <Filter>GameObject\Renderer\SpriteRenderer</Filter>
+    </ClCompile>
+    <ClCompile Include="MGMath.cpp">
+      <Filter>Utils\MGMath</Filter>
+    </ClCompile>
+    <ClCompile Include="RectRenderer.cpp">
+      <Filter>GameObject\Renderer\RectRenderer</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2D.cpp">
+      <Filter>Utils\Vector2D</Filter>
+    </ClCompile>
+    <ClCompile Include="CodingGuideLine.cpp">
+      <Filter>코딩가이드라인</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

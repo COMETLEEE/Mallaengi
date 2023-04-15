@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Main">
+      <UniqueIdentifier>{1e0200c2-de26-4f20-9f2b-5b1368913565}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main\MainFrm">
+      <UniqueIdentifier>{b60a7c90-ae3b-4584-aec7-85904e6da266}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main\App">
+      <UniqueIdentifier>{3a5bed32-386e-4321-a065-f6aee8e1ab9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main\MainDoc">
+      <UniqueIdentifier>{9d2ade43-b2b9-406f-8642-96f2dc7787b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main\MainView">
+      <UniqueIdentifier>{52aa9d1e-650e-4d4c-9973-9e0830d78000}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Windows">
+      <UniqueIdentifier>{fd58a0c1-1d7c-408c-ac2c-2e50db9842bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windows\FileView">
+      <UniqueIdentifier>{be7ee68d-0d7c-4e6e-8091-25d2ccc38460}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PCH">
+      <UniqueIdentifier>{86ad99dd-249a-479b-8ff4-6cb07e0cda3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windows\Output">
+      <UniqueIdentifier>{7670cc95-168b-419a-a0e2-da465282dce1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windows\Properties">
+      <UniqueIdentifier>{3944d115-9cec-447c-b20e-96891856a41f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windows\TreeControlBase">
+      <UniqueIdentifier>{6324d3d8-034d-4c3d-a837-d358e66b2969}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="JsonManager">
+      <UniqueIdentifier>{2c1eeff2-477a-4968-a1eb-9dc1ace0fa21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windows\AnimationView">
+      <UniqueIdentifier>{124d767a-6974-40d0-b306-683aff24f69c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windows\SpriteView">
+      <UniqueIdentifier>{52f35cdb-edaa-45de-af08-89a6ee2797de}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Main\MainFrm</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteTool.h">
+      <Filter>Main\App</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteToolDoc.h">
+      <Filter>Main\MainDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteToolView.h">
+      <Filter>Main\MainView</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteView.h">
+      <Filter>Windows\SpriteView</Filter>
+    </ClInclude>
+    <ClInclude Include="FileView.h">
+      <Filter>Windows\FileView</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="OutputWnd.h">
+      <Filter>Windows\Output</Filter>
+    </ClInclude>
+    <ClInclude Include="PropertiesWnd.h">
+      <Filter>Windows\Properties</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewTree.h">
+      <Filter>Windows\TreeControlBase</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonManager.h">
+      <Filter>JsonManager</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationView.h">
+      <Filter>Windows\AnimationView</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Main\MainFrm</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteTool.cpp">
+      <Filter>Main\App</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteToolDoc.cpp">
+      <Filter>Main\MainDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteToolView.cpp">
+      <Filter>Main\MainView</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteView.cpp">
+      <Filter>Windows\SpriteView</Filter>
+    </ClCompile>
+    <ClCompile Include="FileView.cpp">
+      <Filter>Windows\FileView</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>PCH</Filter>
+    </ClCompile>
+    <ClCompile Include="OutputWnd.cpp">
+      <Filter>Windows\Output</Filter>
+    </ClCompile>
+    <ClCompile Include="PropertiesWnd.cpp">
+      <Filter>Windows\Properties</Filter>
+    </ClCompile>
+    <ClCompile Include="ViewTree.cpp">
+      <Filter>Windows\TreeControlBase</Filter>
+    </ClCompile>
+    <ClCompile Include="JsonManager.cpp">
+      <Filter>JsonManager</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationView.cpp">
+      <Filter>Windows\AnimationView</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="SpriteTool.rc">
+      <Filter>Resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\file_view.ico">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\file_view_hc.ico">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\class_view.ico">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\class_view_hc.ico">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\fileview.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\fileview_hc.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\classview.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\classview_hc.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\explorer.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\explorer_hc.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\sort.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\sort_hc.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\menuimages.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\menuimages_hc.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\output_wnd.ico">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\output_wnd_hc.ico">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\properties_wnd.ico">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\properties_wnd_hc.ico">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\properties.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\properties_hc.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\userimages.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\SpriteToolDoc.ico">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\SpriteTool.ico">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="res\Toolbar256.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\SpriteTool.rc2">
+      <Filter>Resource</Filter>
+    </None>
+  </ItemGroup>
+</Project>

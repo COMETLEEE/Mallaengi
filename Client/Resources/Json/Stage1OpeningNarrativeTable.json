@@ -1,0 +1,82 @@
+﻿[
+  {
+    "ImageID": 10201,
+    "ImagePos": [ 0, 0 ],
+    "ImageSize": [ 708, 1080 ],
+    "Delay": 0,
+    "Duration": 6,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10202,
+    "ImagePos": [ 708, 0 ],
+    "ImageSize": [ 1212, 548 ],
+    "Delay": 2,
+    "Duration": 4,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10203,
+    "ImagePos": [ 708, 548 ],
+    "ImageSize": [ 1215, 536 ],
+    "Delay": 4,
+    "Duration": 2,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10204,
+    "ImagePos": [ 0, 0 ],
+    "ImageSize": [ 626, 1080 ],
+    "Delay": 9,
+    "Duration": 6,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10205,
+    "ImagePos": [ 626, 0 ],
+    "ImageSize": [ 684, 1080 ],
+    "Delay": 11,
+    "Duration": 4,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10206,
+    "ImagePos": [ 1310, 0 ],
+    "ImageSize": [ 610, 1080 ],
+    "Delay": 13,
+    "Duration": 2,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10207,
+    "ImagePos": [ 0, 0 ],
+    "ImageSize": [ 598, 537 ],
+    "Delay": 18,
+    "Duration": 8,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10208,
+    "ImagePos": [ 0, 537 ],
+    "ImageSize": [ 598, 543 ],
+    "Delay": 20,
+    "Duration": 6,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10209,
+    "ImagePos": [ 598, 0 ],
+    "ImageSize": [ 731, 1080 ],
+    "Delay": 22,
+    "Duration": 4,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10210,
+    "ImagePos": [ 1329, 0 ],
+    "ImageSize": [ 591, 1080 ],
+    "Delay": 24,
+    "Duration": 2,
+    "AlphaSpeed": 1
+  }
+]

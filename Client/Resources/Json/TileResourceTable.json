@@ -1,0 +1,882 @@
+﻿[
+  {
+    "Id": 10101000,
+    "Name": "Stage 1 P_F",
+    "Layer": 0,
+    "Group": [ 0 ],
+    "ImageID": 0,
+    "RECT": [ 0, 0, 0, 0 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 0
+  },
+  {
+    "Id": 10101001,
+    "Name": "Grass Left",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 0, 0, 80, 77 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10101002,
+    "Name": "Grass Up",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 80, 0, 160, 77 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10101003,
+    "Name": "Grass Right",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 160, 0, 240, 77 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10101004,
+    "Name": "Inside Left",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 0, 77, 80, 154 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10101005,
+    "Name": "Inside Center",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 80, 77, 160, 154 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10101006,
+    "Name": "Inside Right",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 160, 77, 240, 154 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10101007,
+    "Name": "Under Left",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 0, 154, 80, 231 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10101008,
+    "Name": "Under Down",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 80, 154, 160, 231 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10101009,
+    "Name": "Under Right",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 160, 154, 240, 231 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10101010,
+    "Name": "Grass B_L",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 0, 0, 80, 77 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10101011,
+    "Name": "Grass B_U",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 80, 0, 160, 77 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10101012,
+    "Name": "Grass B_R",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 160, 0, 240, 77 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10101013,
+    "Name": "Inside B_L",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 0, 77, 80, 154 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10101014,
+    "Name": "Inside B_C",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 80, 77, 160, 154 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10101015,
+    "Name": "Inside B_R",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 160, 77, 240, 154 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10101016,
+    "Name": "Wood Box_1",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20103,
+    "RECT": [ 80, 963, 160, 1040 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10101017,
+    "Name": "Grass Up Re",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 320, 83, 400, 160 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10101018,
+    "Name": "Grass Up Down",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 400, 82, 480, 158 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10102000,
+    "Name": "Stage 1 M_F",
+    "Layer": 0,
+    "Group": [ 0 ],
+    "ImageID": 0,
+    "RECT": [ 0, 0, 0, 0 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10102001,
+    "Name": "Air Tile Left",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 240, 0, 320, 77 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10102002,
+    "Name": "Air Tile Center",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 320, 0, 400, 77 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10102003,
+    "Name": "Air Tile Right",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 400, 0, 480, 77 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10103000,
+    "Name": "Stage 1 B_F",
+    "Layer": 0,
+    "Group": [ 0 ],
+    "ImageID": 0,
+    "RECT": [ 0, 0, 0, 0 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10103001,
+    "Name": "Grass 2 Left",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 0, 240, 80, 320 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10103002,
+    "Name": "Grass 2 Up",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 80, 240, 160, 320 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10103003,
+    "Name": "Grass 2 Right",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 160, 240, 240, 320 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10103004,
+    "Name": "Mud Left",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 0, 320, 80, 400 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10103005,
+    "Name": "Mud Center",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 80, 320, 160, 400 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10103006,
+    "Name": "Mud Right",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 160, 320, 240, 400 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10103007,
+    "Name": "Down Left",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 0, 400, 80, 480 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10103008,
+    "Name": "Down Down",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 80, 400, 160, 480 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10103009,
+    "Name": "Down Right",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 160, 400, 240, 480 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10104000,
+    "Name": "Grass B_L hamburger",
+    "Layer": 0,
+    "Group": [ 0 ],
+    "ImageID": 0,
+    "RECT": [ 0, 0, 0, 0 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 10104001,
+    "Name": "Grass B_L check burger",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 10101,
+    "RECT": [ 0, 0, 80, 77 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101000,
+    "Name": "Stage2",
+    "Layer": 0,
+    "Group": [ 0 ],
+    "ImageID": 0,
+    "RECT": [ 0, 0, 0, 0 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101001,
+    "Name": "Left",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 0, 0, 80, 80 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101002,
+    "Name": "Up",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 80, 0, 160, 80 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101003,
+    "Name": "Up2",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 160, 0, 240, 80 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101004,
+    "Name": "Right",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 240, 0, 320, 80 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101005,
+    "Name": "M_Left",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 0, 80, 80, 160 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101006,
+    "Name": "M_Up",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 80, 80, 160, 160 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101007,
+    "Name": "M_Up2",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 160, 80, 240, 160 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101008,
+    "Name": "M_Right",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 240, 80, 320, 160 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101009,
+    "Name": "B_Left",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 0, 160, 80, 237 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101010,
+    "Name": "B_Up",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 80, 160, 160, 237 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101011,
+    "Name": "B_Up2",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 160, 160, 240, 237 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101012,
+    "Name": "B_Right",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 240, 160, 320, 237 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101013,
+    "Name": "A_Left",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 480, 0, 560, 77 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101014,
+    "Name": "A_UP",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 560, 0, 640, 77 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101015,
+    "Name": "A_Right",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 640, 0, 720, 77 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101016,
+    "Name": "RE_Down_Right",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 720, 563, 800, 640 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101017,
+    "Name": "RE_Up",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 640, 563, 720, 640 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101018,
+    "Name": "RE_Up2",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 560, 563, 640, 640 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101019,
+    "Name": "RE_Down_Left",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 480, 563, 560, 640 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101020,
+    "Name": "RE_Center_Right",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 720, 483, 800, 560 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101021,
+    "Name": "RE_Center",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 640, 483, 720, 560 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101022,
+    "Name": "RE_Center2",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 560, 483, 640, 560 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101023,
+    "Name": "RE_Center_Left",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 480, 483, 560, 560 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101024,
+    "Name": "RE_Right",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 720, 403, 800, 480 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101025,
+    "Name": "RE_1",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 640, 403, 720, 480 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101026,
+    "Name": "RE_2",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 560, 403, 640, 480 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20101027,
+    "Name": "RE_Left",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20109,
+    "RECT": [ 480, 403, 560, 480 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102000,
+    "Name": "Stage3",
+    "Layer": 0,
+    "Group": [ 0 ],
+    "ImageID": 0,
+    "RECT": [ 0, 0, 0, 0 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102001,
+    "Name": "Up-Left",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 0, 0, 80, 80 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102002,
+    "Name": "Up-Center",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 80, 0, 160, 80 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102003,
+    "Name": "Up-Right",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 160, 0, 240, 80 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102004,
+    "Name": "Left-Center",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 0, 80, 80, 160 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102005,
+    "Name": "Center-Center",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 80, 80, 160, 160 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102006,
+    "Name": "Right-Center",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 160, 80, 240, 160 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102007,
+    "Name": "Left-Down",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 0, 160, 80, 240 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102008,
+    "Name": "Center-Center",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 80, 160, 160, 240 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102009,
+    "Name": "Right-Center",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 160, 160, 240, 240 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102010,
+    "Name": "Air-Left",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 320, 0, 400, 80 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102011,
+    "Name": "Air-Center",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 400, 0, 480, 80 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102012,
+    "Name": "Air-Right",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 480, 0, 560, 80 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102013,
+    "Name": "Up2-Left",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 0, 323, 80, 400 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102014,
+    "Name": "Up2-Center",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 80, 323, 160, 400 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102015,
+    "Name": "Up2-Right",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 160, 323, 240, 400 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102016,
+    "Name": "Left2-Center",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 0, 403, 80, 480 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102017,
+    "Name": "Center2-Center",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 80, 403, 160, 480 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102018,
+    "Name": "Right2-Center",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 160, 403, 240, 480 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102019,
+    "Name": "Left2-Down",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 0, 483, 80, 560 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102020,
+    "Name": "Center2-Center",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 80, 483, 160, 560 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102021,
+    "Name": "Right2-Center",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 160, 483, 240, 560 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102022,
+    "Name": "Air2-Left",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 320, 320, 400, 397 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102023,
+    "Name": "Air2-Center",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 400, 320, 480, 397 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20102024,
+    "Name": "Air2-Right",
+    "Layer": 5,
+    "Group": [ 0 ],
+    "ImageID": 20117,
+    "RECT": [ 480, 320, 560, 397 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 255
+  }
+]

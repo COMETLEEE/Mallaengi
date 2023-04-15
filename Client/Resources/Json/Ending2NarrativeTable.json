@@ -1,0 +1,66 @@
+﻿[
+  {
+    "ImageID": 10501,
+    "ImagePos": [ 0, 0 ],
+    "ImageSize": [ 481, 535 ],
+    "Delay": 0,
+    "Duration": 16,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10502,
+    "ImagePos": [ 481, 0 ],
+    "ImageSize": [ 498, 535 ],
+    "Delay": 2,
+    "Duration": 14,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10503,
+    "ImagePos": [ 0, 535 ],
+    "ImageSize": [ 979, 545 ],
+    "Delay": 4,
+    "Duration": 12,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10504,
+    "ImagePos": [ 0, 535 ],
+    "ImageSize": [ 979, 545 ],
+    "Delay": 6,
+    "Duration": 10,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10505,
+    "ImagePos": [ 0, 535 ],
+    "ImageSize": [ 979, 545 ],
+    "Delay": 8,
+    "Duration": 8,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10506,
+    "ImagePos": [ 979, 0 ],
+    "ImageSize": [ 944, 608 ],
+    "Delay": 10,
+    "Duration": 6,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10507,
+    "ImagePos": [ 979, 608 ],
+    "ImageSize": [ 479, 477 ],
+    "Delay": 12,
+    "Duration": 4,
+    "AlphaSpeed": 1
+  },
+  {
+    "ImageID": 10508,
+    "ImagePos": [ 1458, 608 ],
+    "ImageSize": [ 465, 477 ],
+    "Delay": 14,
+    "Duration": 2,
+    "AlphaSpeed": 1
+  }
+]

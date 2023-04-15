@@ -1,0 +1,240 @@
+﻿[
+  {
+    "Id": 500001,
+    "IsBgm": true,
+    "Loop": true,
+    "SoundName": "Title",
+    "FileRoot": "Resources\\Music\\BGM\\Title\\Title.mp3"
+  },
+  {
+    "Id": 500002,
+    "IsBgm": true,
+    "Loop": true,
+    "SoundName": "Stage1",
+    "FileRoot": "Resources\\Music\\BGM\\Stage_1\\Stage1.mp3"
+  },
+  {
+    "Id": 500003,
+    "IsBgm": true,
+    "Loop": true,
+    "SoundName": "Stage2",
+    "FileRoot": "Resources\\Music\\BGM\\Stage_2\\Stage2.mp3"
+  },
+  {
+    "Id": 500004,
+    "IsBgm": true,
+    "Loop": true,
+    "SoundName": "Stage3",
+    "FileRoot": "Resources\\Music\\BGM\\Stage_3\\Stage3.mp3"
+  },
+  {
+    "Id": 500005,
+    "IsBgm": true,
+    "Loop": true,
+    "SoundName": "Story1",
+    "FileRoot": "Resources\\Music\\BGM\\Story_1\\Story1.mp3"
+  },
+  {
+    "Id": 500006,
+    "IsBgm": true,
+    "Loop": true,
+    "SoundName": "Story2",
+    "FileRoot": "Resources\\Music\\BGM\\Story_2\\Story2.mp3"
+  },
+  {
+    "Id": 500007,
+    "IsBgm": true,
+    "Loop": true,
+    "SoundName": "Story3",
+    "FileRoot": "Resources\\Music\\BGM\\Story_3\\Story3.mp3"
+  },
+  {
+    "Id": 500008,
+    "IsBgm": true,
+    "Loop": true,
+    "SoundName": "Ending1",
+    "FileRoot": "Resources\\Music\\BGM\\Ending1\\Ending1.mp3"
+  },
+  {
+    "Id": 500009,
+    "IsBgm": true,
+    "Loop": true,
+    "SoundName": "Ending2",
+    "FileRoot": "Resources\\Music\\BGM\\Ending2\\Ending2.mp3"
+  },
+  {
+    "Id": 500010,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "ButtonClick",
+    "FileRoot": "Resources\\Music\\UI_SFX\\Click\\Click.mp3"
+  },
+  {
+    "Id": 500011,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "Run",
+    "FileRoot": "Resources\\Music\\Cha_SFX\\Move\\Run.mp3"
+  },
+  {
+    "Id": 500012,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "Jump1",
+    "FileRoot": "Resources\\Music\\Cha_SFX\\Jump1\\Jump1.mp3"
+  },
+  {
+    "Id": 500013,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "Jump2",
+    "FileRoot": "Resources\\Music\\Cha_SFX\\Jump2\\Jump2.mp3"
+  },
+  {
+    "Id": 500014,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "Jump3",
+    "FileRoot": "Resources\\Music\\Cha_SFX\\Jump3\\Jump3.mp3"
+  },
+  {
+    "Id": 500015,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "Landing",
+    "FileRoot": "Resources\\Music\\Cha_SFX\\Land\\Landing.mp3"
+  },
+  {
+    "Id": 500016,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "CharacterHit",
+    "FileRoot": "Resources\\Music\\"
+  },
+  {
+    "Id": 500017,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "CharacterDie",
+    "FileRoot": "Resources\\Music\\Cha_SFX\\Die\\Death.mp3"
+  },
+  {
+    "Id": 500018,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "CharacterAttack",
+    "FileRoot": "Resources\\Music\\"
+  },
+  {
+    "Id": 500019,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "UpGrade",
+    "FileRoot": "Resources\\Music\\Cha_SFX\\UpGrade\\UpGrade.mp3"
+  },
+  {
+    "Id": 500020,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "DownGrade",
+    "FileRoot": "Resources\\Music\\Cha_SFX\\DownGrade\\DownGrade.mp3"
+  },
+  {
+    "Id": 500021,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "FoodEat",
+    "FileRoot": "Resources\\Music\\Item_SFX\\Get_Item\\FoodEat.mp3"
+  },
+  {
+    "Id": 500022,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "Building_up",
+    "FileRoot": "Resources\\Music\\Object\\Buildingup\\Building up.mp3"
+  },
+  {
+    "Id": 500023,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "Item1_Sp",
+    "FileRoot": "Resources\\Music\\Item_SFX\\item spawn\\"
+  },
+  {
+    "Id": 500024,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "Item1_Ob",
+    "FileRoot": "Resources\\Music\\Item_SFX\\get item\\"
+  },
+  {
+    "Id": 500025,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "Item2_Sp",
+    "FileRoot": "Resources\\Music\\"
+  },
+  {
+    "Id": 500026,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "Item2_Ob",
+    "FileRoot": "Resources\\Music\\"
+  },
+  {
+    "Id": 500027,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "PigeonAttack",
+    "FileRoot": "Resources\\Music\\En_SFX\\Pigeon\\Pigeon.mp3"
+  },
+  {
+    "Id": 500028,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "EnemyDie",
+    "FileRoot": "Resources\\Music\\En_SFX\\Die\\Death.mp3"
+  },
+  {
+    "Id": 500029,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "EnemyHit",
+    "FileRoot": "Resources\\Music\\En_SFX\\Die\\EnemyHit.mp3"
+  },
+  {
+    "Id": 500030,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "BlockDestruction",
+    "FileRoot": "Resources\\Music\\Block_SFX\\BlockDestruction.mp3"
+  },
+  {
+    "Id": 500031,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "ItemBlockDestruction",
+    "FileRoot": "Resources\\Music\\Block_SFX\\ItemBlockDestruction.mp3"
+  },
+  {
+    "Id": 500032,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "DoorOpen",
+    "FileRoot": "Resources\\Music\\OpenDoor\\DoorOpen.mp3"
+  },
+  {
+    "Id": 500033,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "Portal",
+    "FileRoot": "Resources\\Music\\Object\\Portal\\Portal.mp3"
+  },
+  {
+    "Id": 500034,
+    "IsBgm": false,
+    "Loop": false,
+    "SoundName": "Save_Point",
+    "FileRoot": "Resources\\Music\\Object\\Save_Point\\Save_Point.mp3"
+  }
+]

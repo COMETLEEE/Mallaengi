@@ -1,0 +1,72 @@
+﻿[
+  {
+    "Id": 10000,
+    "Name": "RootRed",
+    "Layer": 0,
+    "Group": [ 0 ],
+    "ImageID": 0,
+    "RECT": [ 0, 0, 0, 0 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 0
+  },
+  {
+    "Id": 10001,
+    "Name": "Red",
+    "Layer": 1,
+    "Group": [ 0 ],
+    "ImageID": 1001,
+    "RECT": [ 0, 0, 63, 63 ],
+    "Pivot": [ 32, 32 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 20000,
+    "Name": "RootGreen",
+    "Layer": 0,
+    "Group": [ 0 ],
+    "ImageID": 0,
+    "RECT": [ 0, 0, 0, 0 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 0
+  },
+  {
+    "Id": 20001,
+    "Name": "Green",
+    "Layer": 1,
+    "Group": [ 0 ],
+    "ImageID": 1001,
+    "RECT": [ 64, 0, 127, 63 ],
+    "Pivot": [ 32, 32 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 30000,
+    "Name": "RootBlue",
+    "Layer": 0,
+    "Group": [ 0 ],
+    "ImageID": 0,
+    "RECT": [ 0, 0, 0, 0 ],
+    "Pivot": [ 0, 0 ],
+    "AlphaValue": 0
+  },
+  {
+    "Id": 30001,
+    "Name": "Blue",
+    "Layer": 1,
+    "Group": [ 0 ],
+    "ImageID": 1001,
+    "RECT": [ 128, 0, 191, 63 ],
+    "Pivot": [ 32, 32 ],
+    "AlphaValue": 255
+  },
+  {
+    "Id": 30002,
+    "Name": "Blue",
+    "Layer": 1,
+    "Group": [ 0 ],
+    "ImageID": 1001,
+    "RECT": [ 64, 0, 127, 63 ],
+    "Pivot": [ 32, 32 ],
+    "AlphaValue": 255
+  }
+]

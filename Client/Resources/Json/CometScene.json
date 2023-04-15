@@ -1,0 +1,602 @@
+﻿[
+  {
+    "Id": 102001,
+    "Type": "Object",
+    "Index": 1441795,
+    "ImageID": 20101,
+    "RECT": [ 240, 385, 320, 462 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 102004,
+    "Type": "Object",
+    "Index": 1114137,
+    "ImageID": 20101,
+    "RECT": [ 400, 385, 480, 462 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 102004,
+    "Type": "Object",
+    "Index": 1114138,
+    "ImageID": 20101,
+    "RECT": [ 400, 385, 480, 462 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 102004,
+    "Type": "Object",
+    "Index": 1179672,
+    "ImageID": 20101,
+    "RECT": [ 400, 385, 480, 462 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 102004,
+    "Type": "Object",
+    "Index": 1179673,
+    "ImageID": 20101,
+    "RECT": [ 400, 385, 480, 462 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 102004,
+    "Type": "Object",
+    "Index": 1245207,
+    "ImageID": 20101,
+    "RECT": [ 400, 385, 480, 462 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 102004,
+    "Type": "Object",
+    "Index": 1245208,
+    "ImageID": 20101,
+    "RECT": [ 400, 385, 480, 462 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 102004,
+    "Type": "Object",
+    "Index": 1310742,
+    "ImageID": 20101,
+    "RECT": [ 400, 385, 480, 462 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 102004,
+    "Type": "Object",
+    "Index": 1310743,
+    "ImageID": 20101,
+    "RECT": [ 400, 385, 480, 462 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 102004,
+    "Type": "Object",
+    "Index": 1376277,
+    "ImageID": 20101,
+    "RECT": [ 400, 385, 480, 462 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 102004,
+    "Type": "Object",
+    "Index": 1376278,
+    "ImageID": 20101,
+    "RECT": [ 400, 385, 480, 462 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 102004,
+    "Type": "Object",
+    "Index": 1441812,
+    "ImageID": 20101,
+    "RECT": [ 400, 385, 480, 462 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 102004,
+    "Type": "Object",
+    "Index": 1441813,
+    "ImageID": 20101,
+    "RECT": [ 400, 385, 480, 462 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 102004,
+    "Type": "Object",
+    "Index": 1507347,
+    "ImageID": 20101,
+    "RECT": [ 400, 385, 480, 462 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 102004,
+    "Type": "Object",
+    "Index": 1507348,
+    "ImageID": 20101,
+    "RECT": [ 400, 385, 480, 462 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 102004,
+    "Type": "Object",
+    "Index": 1572882,
+    "ImageID": 20101,
+    "RECT": [ 400, 385, 480, 462 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 102004,
+    "Type": "Object",
+    "Index": 1572883,
+    "ImageID": 20101,
+    "RECT": [ 400, 385, 480, 462 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 102004,
+    "Type": "Object",
+    "Index": 1638417,
+    "ImageID": 20101,
+    "RECT": [ 400, 385, 480, 462 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 102004,
+    "Type": "Object",
+    "Index": 1638418,
+    "ImageID": 20101,
+    "RECT": [ 400, 385, 480, 462 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 103001,
+    "Type": "Object",
+    "Index": 1048602,
+    "ImageID": 20101,
+    "RECT": [ 160, 693, 240, 770 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 104001,
+    "Type": "Object",
+    "Index": 1572869,
+    "ImageID": 20101,
+    "RECT": [ 160, 0, 240, 77 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 105001,
+    "Type": "Object",
+    "Index": 1376268,
+    "ImageID": 20101,
+    "RECT": [ 240, 77, 480, 385 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 107001,
+    "Type": "Object",
+    "Index": 1572864,
+    "ImageID": 20101,
+    "RECT": [ 560, 308, 720, 385 ],
+    "Group": [ 1 ]
+  },
+  {
+    "Id": 107002,
+    "Type": "Object",
+    "Index": 1310728,
+    "ImageID": 20101,
+    "RECT": [ 480, 385, 720, 770 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101001,
+    "Type": "Terrain",
+    "Index": 1638400,
+    "ImageID": 10101,
+    "RECT": [ 0, 0, 80, 77 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101002,
+    "Type": "Terrain",
+    "Index": 1638401,
+    "ImageID": 10101,
+    "RECT": [ 80, 0, 160, 77 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101002,
+    "Type": "Terrain",
+    "Index": 1638402,
+    "ImageID": 10101,
+    "RECT": [ 80, 0, 160, 77 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101002,
+    "Type": "Terrain",
+    "Index": 1638403,
+    "ImageID": 10101,
+    "RECT": [ 80, 0, 160, 77 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101002,
+    "Type": "Terrain",
+    "Index": 1638404,
+    "ImageID": 10101,
+    "RECT": [ 80, 0, 160, 77 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101002,
+    "Type": "Terrain",
+    "Index": 1638405,
+    "ImageID": 10101,
+    "RECT": [ 80, 0, 160, 77 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101002,
+    "Type": "Terrain",
+    "Index": 1638406,
+    "ImageID": 10101,
+    "RECT": [ 80, 0, 160, 77 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101002,
+    "Type": "Terrain",
+    "Index": 1638407,
+    "ImageID": 10101,
+    "RECT": [ 80, 0, 160, 77 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101002,
+    "Type": "Terrain",
+    "Index": 1638408,
+    "ImageID": 10101,
+    "RECT": [ 80, 0, 160, 77 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101002,
+    "Type": "Terrain",
+    "Index": 1638409,
+    "ImageID": 10101,
+    "RECT": [ 80, 0, 160, 77 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101002,
+    "Type": "Terrain",
+    "Index": 1638410,
+    "ImageID": 10101,
+    "RECT": [ 80, 0, 160, 77 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101002,
+    "Type": "Terrain",
+    "Index": 1638411,
+    "ImageID": 10101,
+    "RECT": [ 80, 0, 160, 77 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101002,
+    "Type": "Terrain",
+    "Index": 1638412,
+    "ImageID": 10101,
+    "RECT": [ 80, 0, 160, 77 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101002,
+    "Type": "Terrain",
+    "Index": 1638413,
+    "ImageID": 10101,
+    "RECT": [ 80, 0, 160, 77 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101002,
+    "Type": "Terrain",
+    "Index": 1638414,
+    "ImageID": 10101,
+    "RECT": [ 80, 0, 160, 77 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101002,
+    "Type": "Terrain",
+    "Index": 1638415,
+    "ImageID": 10101,
+    "RECT": [ 80, 0, 160, 77 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101003,
+    "Type": "Terrain",
+    "Index": 1638416,
+    "ImageID": 10101,
+    "RECT": [ 160, 0, 240, 77 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101004,
+    "Type": "Terrain",
+    "Index": 1703936,
+    "ImageID": 10101,
+    "RECT": [ 0, 77, 80, 154 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101005,
+    "Type": "Terrain",
+    "Index": 1703937,
+    "ImageID": 10101,
+    "RECT": [ 80, 77, 160, 154 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101005,
+    "Type": "Terrain",
+    "Index": 1703938,
+    "ImageID": 10101,
+    "RECT": [ 80, 77, 160, 154 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101005,
+    "Type": "Terrain",
+    "Index": 1703939,
+    "ImageID": 10101,
+    "RECT": [ 80, 77, 160, 154 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101005,
+    "Type": "Terrain",
+    "Index": 1703940,
+    "ImageID": 10101,
+    "RECT": [ 80, 77, 160, 154 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101005,
+    "Type": "Terrain",
+    "Index": 1703941,
+    "ImageID": 10101,
+    "RECT": [ 80, 77, 160, 154 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101005,
+    "Type": "Terrain",
+    "Index": 1703942,
+    "ImageID": 10101,
+    "RECT": [ 80, 77, 160, 154 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101005,
+    "Type": "Terrain",
+    "Index": 1703943,
+    "ImageID": 10101,
+    "RECT": [ 80, 77, 160, 154 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101005,
+    "Type": "Terrain",
+    "Index": 1703944,
+    "ImageID": 10101,
+    "RECT": [ 80, 77, 160, 154 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101005,
+    "Type": "Terrain",
+    "Index": 1703945,
+    "ImageID": 10101,
+    "RECT": [ 80, 77, 160, 154 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101005,
+    "Type": "Terrain",
+    "Index": 1703946,
+    "ImageID": 10101,
+    "RECT": [ 80, 77, 160, 154 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101005,
+    "Type": "Terrain",
+    "Index": 1703947,
+    "ImageID": 10101,
+    "RECT": [ 80, 77, 160, 154 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101005,
+    "Type": "Terrain",
+    "Index": 1703948,
+    "ImageID": 10101,
+    "RECT": [ 80, 77, 160, 154 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101005,
+    "Type": "Terrain",
+    "Index": 1703949,
+    "ImageID": 10101,
+    "RECT": [ 80, 77, 160, 154 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101005,
+    "Type": "Terrain",
+    "Index": 1703950,
+    "ImageID": 10101,
+    "RECT": [ 80, 77, 160, 154 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101005,
+    "Type": "Terrain",
+    "Index": 1703951,
+    "ImageID": 10101,
+    "RECT": [ 80, 77, 160, 154 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101006,
+    "Type": "Terrain",
+    "Index": 1703952,
+    "ImageID": 10101,
+    "RECT": [ 160, 77, 240, 154 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101007,
+    "Type": "Terrain",
+    "Index": 1769472,
+    "ImageID": 10101,
+    "RECT": [ 0, 154, 80, 231 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101008,
+    "Type": "Terrain",
+    "Index": 1769473,
+    "ImageID": 10101,
+    "RECT": [ 80, 154, 160, 231 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101008,
+    "Type": "Terrain",
+    "Index": 1769474,
+    "ImageID": 10101,
+    "RECT": [ 80, 154, 160, 231 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101008,
+    "Type": "Terrain",
+    "Index": 1769475,
+    "ImageID": 10101,
+    "RECT": [ 80, 154, 160, 231 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101008,
+    "Type": "Terrain",
+    "Index": 1769476,
+    "ImageID": 10101,
+    "RECT": [ 80, 154, 160, 231 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101008,
+    "Type": "Terrain",
+    "Index": 1769477,
+    "ImageID": 10101,
+    "RECT": [ 80, 154, 160, 231 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101008,
+    "Type": "Terrain",
+    "Index": 1769478,
+    "ImageID": 10101,
+    "RECT": [ 80, 154, 160, 231 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101008,
+    "Type": "Terrain",
+    "Index": 1769479,
+    "ImageID": 10101,
+    "RECT": [ 80, 154, 160, 231 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101008,
+    "Type": "Terrain",
+    "Index": 1769480,
+    "ImageID": 10101,
+    "RECT": [ 80, 154, 160, 231 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101008,
+    "Type": "Terrain",
+    "Index": 1769481,
+    "ImageID": 10101,
+    "RECT": [ 80, 154, 160, 231 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101008,
+    "Type": "Terrain",
+    "Index": 1769482,
+    "ImageID": 10101,
+    "RECT": [ 80, 154, 160, 231 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101008,
+    "Type": "Terrain",
+    "Index": 1769483,
+    "ImageID": 10101,
+    "RECT": [ 80, 154, 160, 231 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101008,
+    "Type": "Terrain",
+    "Index": 1769484,
+    "ImageID": 10101,
+    "RECT": [ 80, 154, 160, 231 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101008,
+    "Type": "Terrain",
+    "Index": 1769485,
+    "ImageID": 10101,
+    "RECT": [ 80, 154, 160, 231 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101008,
+    "Type": "Terrain",
+    "Index": 1769486,
+    "ImageID": 10101,
+    "RECT": [ 80, 154, 160, 231 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101008,
+    "Type": "Terrain",
+    "Index": 1769487,
+    "ImageID": 10101,
+    "RECT": [ 80, 154, 160, 231 ],
+    "Group": [ 0 ]
+  },
+  {
+    "Id": 10101009,
+    "Type": "Terrain",
+    "Index": 1769488,
+    "ImageID": 10101,
+    "RECT": [ 160, 154, 240, 231 ],
+    "Group": [ 0 ]
+  }
+]

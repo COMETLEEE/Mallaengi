@@ -1,0 +1,427 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "BackGround",
+    "Path": "Resources\\BackGround\\backGround.png"
+  },
+  {
+    "Id": 10101,
+    "Name": "Grass Tile",
+    "Path": "Resources\\Tile\\Stage1 Flatform.png"
+  },
+  {
+    "Id": 10201,
+    "Name": "Stage 1 Opening 1",
+    "Path": "Resources\\Narrative\\op\\1-1.png"
+  },
+  {
+    "Id": 10202,
+    "Name": "Stage 1 Opening 2",
+    "Path": "Resources\\Narrative\\op\\1-2.png"
+  },
+  {
+    "Id": 10203,
+    "Name": "Stage 1 Opening 3",
+    "Path": "Resources\\Narrative\\op\\1-3.png"
+  },
+  {
+    "Id": 10204,
+    "Name": "Stage 1 Opening 4",
+    "Path": "Resources\\Narrative\\op\\2-1.png"
+  },
+  {
+    "Id": 10205,
+    "Name": "Stage 1 Opening 5",
+    "Path": "Resources\\Narrative\\op\\2-2.png"
+  },
+  {
+    "Id": 10206,
+    "Name": "Stage 1 Opening 6",
+    "Path": "Resources\\Narrative\\op\\2-3.png"
+  },
+  {
+    "Id": 10207,
+    "Name": "Stage 1 Opening 7",
+    "Path": "Resources\\Narrative\\op\\3-1.png"
+  },
+  {
+    "Id": 10208,
+    "Name": "Stage 1 Opening 8",
+    "Path": "Resources\\Narrative\\op\\3-2.png"
+  },
+  {
+    "Id": 10209,
+    "Name": "Stage 1 Opening 9",
+    "Path": "Resources\\Narrative\\op\\3-3.png"
+  },
+  {
+    "Id": 10210,
+    "Name": "Stage 1 Opening 10",
+    "Path": "Resources\\Narrative\\op\\3-4.png"
+  },
+  {
+    "Id": 10301,
+    "Name": "Stage 2 Opening 1",
+    "Path": "Resources\\Narrative\\2intro\\1.png"
+  },
+  {
+    "Id": 10302,
+    "Name": "Stage 2 Opening 2",
+    "Path": "Resources\\Narrative\\2intro\\2.png"
+  },
+  {
+    "Id": 10303,
+    "Name": "Stage 2 Opening 3",
+    "Path": "Resources\\Narrative\\2intro\\3.png"
+  },
+  {
+    "Id": 10304,
+    "Name": "Stage 2 Opening 4",
+    "Path": "Resources\\Narrative\\2intro\\4.png"
+  },
+  {
+    "Id": 10401,
+    "Name": "Stage 3 Opening 1",
+    "Path": "Resources\\Narrative\\3intro\\1.png"
+  },
+  {
+    "Id": 10402,
+    "Name": "Stage 3 Opening 2",
+    "Path": "Resources\\Narrative\\3intro\\1-2.png"
+  },
+  {
+    "Id": 10403,
+    "Name": "Stage 3 Opening 3",
+    "Path": "Resources\\Narrative\\3intro\\1-3.png"
+  },
+  {
+    "Id": 10404,
+    "Name": "Stage 3 Opening 4",
+    "Path": "Resources\\Narrative\\3intro\\2-1.png"
+  },
+  {
+    "Id": 10405,
+    "Name": "Stage 3 Opening 5",
+    "Path": "Resources\\Narrative\\3intro\\2-2.png"
+  },
+  {
+    "Id": 10406,
+    "Name": "Stage 3 Opening 6",
+    "Path": "Resources\\Narrative\\3intro\\2-3.png"
+  },
+  {
+    "Id": 10407,
+    "Name": "Stage 3 Opening 7",
+    "Path": "Resources\\Narrative\\3intro\\2-4.png"
+  },
+  {
+    "Id": 10408,
+    "Name": "Stage 3 Opening 8",
+    "Path": "Resources\\Narrative\\3intro\\2-5.png"
+  },
+  {
+    "Id": 10409,
+    "Name": "Stage 3 Opening 9",
+    "Path": "Resources\\Narrative\\3intro\\2-6.png"
+  },
+  {
+    "Id": 10410,
+    "Name": "Stage 3 Opening 10",
+    "Path": "Resources\\Narrative\\3intro\\2-7.png"
+  },
+  {
+    "Id": 10411,
+    "Name": "Stage 3 Opening 11",
+    "Path": "Resources\\Narrative\\3intro\\2-8.png"
+  },
+  {
+    "Id": 10412,
+    "Name": "Stage 3 Opening 12",
+    "Path": "Resources\\Narrative\\3intro\\2-9.png"
+  },
+  {
+    "Id": 10413,
+    "Name": "Stage 3 Opening 13",
+    "Path": "Resources\\Narrative\\3intro\\2-10.png"
+  },
+  {
+    "Id": 10414,
+    "Name": "Stage 3 Opening 14",
+    "Path": "Resources\\Narrative\\3intro\\3-1.png"
+  },
+  {
+    "Id": 10415,
+    "Name": "Stage 3 Opening 15",
+    "Path": "Resources\\Narrative\\3intro\\3-2.png"
+  },
+  {
+    "Id": 10501,
+    "Name": "Sad Ending 1",
+    "Path": "Resources\\Narrative\\ed2\\1.png"
+  },
+  {
+    "Id": 10502,
+    "Name": "Sad Ending 2",
+    "Path": "Resources\\Narrative\\ed2\\2.png"
+  },
+  {
+    "Id": 10503,
+    "Name": "Sad Ending 3",
+    "Path": "Resources\\Narrative\\ed2\\3.png"
+  },
+  {
+    "Id": 10504,
+    "Name": "Sad Ending 4",
+    "Path": "Resources\\Narrative\\ed2\\3-2.png"
+  },
+  {
+    "Id": 10505,
+    "Name": "Sad Ending 5",
+    "Path": "Resources\\Narrative\\ed2\\3-3.png"
+  },
+  {
+    "Id": 10506,
+    "Name": "Sad Ending 6",
+    "Path": "Resources\\Narrative\\ed2\\4.png"
+  },
+  {
+    "Id": 10507,
+    "Name": "Sad Ending 7",
+    "Path": "Resources\\Narrative\\ed2\\5.png"
+  },
+  {
+    "Id": 10508,
+    "Name": "Sad Ending 8",
+    "Path": "Resources\\Narrative\\ed2\\6.png"
+  },
+  {
+    "Id": 10601,
+    "Name": "Happy Ending 1",
+    "Path": "Resources\\Narrative\\ed1\\1.png"
+  },
+  {
+    "Id": 10602,
+    "Name": "Happy Ending 2",
+    "Path": "Resources\\Narrative\\ed1\\2-1.png"
+  },
+  {
+    "Id": 10603,
+    "Name": "Happy Ending 3",
+    "Path": "Resources\\Narrative\\ed1\\2-2.png"
+  },
+  {
+    "Id": 10604,
+    "Name": "Happy Ending 4",
+    "Path": "Resources\\Narrative\\ed1\\2-3.png"
+  },
+  {
+    "Id": 10605,
+    "Name": "Happy Ending 5",
+    "Path": "Resources\\Narrative\\ed1\\3.png"
+  },
+  {
+    "Id": 10606,
+    "Name": "Happy Ending 6",
+    "Path": "Resources\\Narrative\\ed1\\4-1.png"
+  },
+  {
+    "Id": 10607,
+    "Name": "Happy Ending 7",
+    "Path": "Resources\\Narrative\\ed1\\4-2.png"
+  },
+  {
+    "Id": 10608,
+    "Name": "Happy Ending 8",
+    "Path": "Resources\\UI\\Credit\\GameDesigner.png"
+  },
+  {
+    "Id": 10609,
+    "Name": "Happy Ending 9",
+    "Path": "Resources\\UI\\Credit\\MainGameDesigner.png"
+  },
+  {
+    "Id": 10610,
+    "Name": "Happy Ending 10",
+    "Path": "Resources\\UI\\Credit\\SubGameDesigner.png"
+  },
+  {
+    "Id": 10611,
+    "Name": "Happy Ending 11",
+    "Path": "Resources\\UI\\Credit\\GameArtist.png"
+  },
+  {
+    "Id": 10612,
+    "Name": "Happy Ending 12",
+    "Path": "Resources\\UI\\Credit\\MainArt.png"
+  },
+  {
+    "Id": 10613,
+    "Name": "Happy Ending 13",
+    "Path": "Resources\\UI\\Credit\\SubArt.png"
+  },
+  {
+    "Id": 10614,
+    "Name": "Happy Ending 14",
+    "Path": "Resources\\UI\\Credit\\GameProgramming.png"
+  },
+  {
+    "Id": 10615,
+    "Name": "Happy Ending 15",
+    "Path": "Resources\\UI\\Credit\\MainProgrammer.png"
+  },
+  {
+    "Id": 10616,
+    "Name": "Happy Ending 16",
+    "Path": "Resources\\UI\\Credit\\ContentsProgrammer.png"
+  },
+  {
+    "Id": 10617,
+    "Name": "Happy Ending 17",
+    "Path": "Resources\\UI\\Credit\\ToolProgrammer.png"
+  },
+  {
+    "Id": 10618,
+    "Name": "Happy Ending 18",
+    "Path": "Resources\\UI\\Credit\\LibraryProgrammer.png"
+  },
+  {
+    "Id": 20101,
+    "Name": "Stage 1 Objects",
+    "Path": "Resources\\Object\\Stage1\\Objects.png"
+  },
+  {
+    "Id": 20102,
+    "Name": "Stage 1 Trap & platform",
+    "Path": "Resources\\Object\\Stage1\\TrapAndPlatform.png"
+  },
+  {
+    "Id": 20103,
+    "Name": "Stage 1 Object",
+    "Path": "Resources\\Object\\Stage1\\Objects(1).png"
+  },
+  {
+    "Id": 20104,
+    "Name": "Box",
+    "Path": "Resources\\Object\\Stage1\\Box.png"
+  },
+  {
+    "Id": 20105,
+    "Name": "Trap Object",
+    "Path": "Resources\\Object\\Stage1\\Trap Object.png"
+  },
+  {
+    "Id": 20106,
+    "Name": "MallaegBar",
+    "Path": "Resources\\Object\\Stage1\\MallaengBar.png"
+  },
+  {
+    "Id": 20107,
+    "Name": "Building",
+    "Path": "Resources\\Object\\Stage1\\Building.png"
+  },
+  {
+    "Id": 20108,
+    "Name": "Stage 2 Object",
+    "Path": "Resources\\Object\\Stage2\\Object.png"
+  },
+  {
+    "Id": 20109,
+    "Name": "Stage 2 Platform",
+    "Path": "Resources\\Tile\\Stage2.png"
+  },
+  {
+    "Id": 20110,
+    "Name": "Stage 1 Enemy",
+    "Path": "Resources\\Object\\Stage1\\Enemy.png"
+  },
+  {
+    "Id": 20111,
+    "Name": "Stage 2 Enemy",
+    "Path": "Resources\\Object\\Stage2\\Enemy.png"
+  },
+  {
+    "Id": 20112,
+    "Name": "Breakable Block",
+    "Path": "Resources\\Object\\BreakableBlock.png"
+  },
+  {
+    "Id": 20113,
+    "Name": "Stage 1 Move",
+    "Path": "Resources\\Tile\\Stage 1 Move.png"
+  },
+  {
+    "Id": 20114,
+    "Name": "Stage 2 Move",
+    "Path": "Resources\\Tile\\Stage 2 Move.png"
+  },
+  {
+    "Id": 20115,
+    "Name": "Stage 2 trap tile",
+    "Path": "Resources\\Object\\Stage2\\trap tile.png"
+  },
+  {
+    "Id": 20116,
+    "Name": "Stage 3 Object",
+    "Path": "Resources\\Object\\Stage3\\Object3.png"
+  },
+  {
+    "Id": 20117,
+    "Name": "Stage 3 Tile",
+    "Path": "Resources\\Tile\\Stage3.png"
+  },
+  {
+    "Id": 20118,
+    "Name": "Stage 3 Block",
+    "Path": "Resources\\Tile\\Stage3 Block.png"
+  },
+  {
+    "Id": 20119,
+    "Name": "Jump Effects",
+    "Path": "Resources\\Effects\\jump.png"
+  },
+  {
+    "Id": 20120,
+    "Name": "Run Effects",
+    "Path": "Resources\\Effects\\run.png"
+  },
+  {
+    "Id": 20121,
+    "Name": "Weight +1 Effect",
+    "Path": "Resources\\Effects\\+1.png"
+  },
+  {
+    "Id": 20122,
+    "Name": "Weight +3 Effect",
+    "Path": "Resources\\Effects\\+3.png"
+  },
+  {
+    "Id": 20123,
+    "Name": "Weight +5 Effect",
+    "Path": "Resources\\Effects\\+5.png"
+  },
+  {
+    "Id": 20124,
+    "Name": "Weight +10 Effect",
+    "Path": "Resources\\Effects\\+10.png"
+  },
+  {
+    "Id": 20125,
+    "Name": "Weight -1 Effect",
+    "Path": "Resources\\Effects\\-1.png"
+  },
+  {
+    "Id": 20126,
+    "Name": "Weight -3 Effect",
+    "Path": "Resources\\Effects\\-3.png"
+  },
+  {
+    "Id": 20127,
+    "Name": "Weight -5 Effect",
+    "Path": "Resources\\Effects\\-5.png"
+  },
+  {
+    "Id": 20128,
+    "Name": "Weight -10 Effect",
+    "Path": "Resources\\Effects\\-10.png"
+  }
+]

@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Back.cpp" />
+    <ClCompile Include="BigBarTrap.cpp" />
+    <ClCompile Include="BodyScale.cpp" />
+    <ClCompile Include="BrokenHeart.cpp" />
+    <ClCompile Include="CatBoxTrap.cpp" />
+    <ClCompile Include="CollisionGrid.cpp" />
+    <ClCompile Include="CreditScene.cpp" />
+    <ClCompile Include="DoorOpen.cpp" />
+    <ClCompile Include="DumbellDown.cpp" />
+    <ClCompile Include="EndingSceneOne.cpp" />
+    <ClCompile Include="EndingSceneTwo.cpp" />
+    <ClCompile Include="Exit.cpp" />
+    <ClCompile Include="ExitPortal.cpp" />
+    <ClCompile Include="FakeTriggerBuilding.cpp" />
+    <ClCompile Include="FallingBlockTriggerTrap.cpp" />
+    <ClCompile Include="FallingDum.cpp" />
+    <ClCompile Include="FallingEnemy.cpp" />
+    <ClCompile Include="FallingPlatform.cpp" />
+    <ClCompile Include="FallingTriggerTrap.cpp" />
+    <ClCompile Include="FiveFalling.cpp" />
+    <ClCompile Include="Food.cpp" />
+    <ClCompile Include="FreeEnemy.cpp" />
+    <ClCompile Include="ItemBox.cpp" />
+    <ClCompile Include="JumpEnemy.cpp" />
+    <ClCompile Include="Ketchap.cpp" />
+    <ClCompile Include="KetchapTrap.cpp" />
+    <ClCompile Include="KillMayo.cpp" />
+    <ClCompile Include="LandingEffect.cpp" />
+    <ClCompile Include="LRMob.cpp" />
+    <ClCompile Include="MinusButton.cpp" />
+    <ClCompile Include="Niddle.cpp" />
+    <ClCompile Include="OneWayMob.cpp" />
+    <ClCompile Include="NachoShuriken.cpp" />
+    <ClCompile Include="NarrativeSprite.cpp" />
+    <ClCompile Include="OneWayMobTrigger.cpp" />
+    <ClCompile Include="RedRight.cpp" />
+    <ClCompile Include="RedUp.cpp" />
+    <ClCompile Include="RidingNacho.cpp" />
+    <ClCompile Include="SlowNiddle.cpp" />
+    <ClCompile Include="RunEffect.cpp" />
+    <ClCompile Include="Stage1OpeningScene.cpp" />
+    <ClCompile Include="PlusButton.cpp" />
+    <ClCompile Include="Portal.cpp" />
+    <ClCompile Include="ProgressBar.cpp" />
+    <ClCompile Include="Restart.cpp" />
+    <ClCompile Include="RestartButton.cpp" />
+    <ClCompile Include="RisingTrap.cpp" />
+    <ClCompile Include="SavePointBoxTrap.cpp" />
+    <ClCompile Include="ShurikenPlatform.cpp" />
+    <ClCompile Include="Stage2OpeningScene.cpp" />
+    <ClCompile Include="Stage3OpeningScene.cpp" />
+    <ClCompile Include="StageOneBackGround.cpp" />
+    <ClCompile Include="BlockBase.cpp" />
+    <ClCompile Include="BlockPlatform.cpp" />
+    <ClCompile Include="BreakableBlock.cpp" />
+    <ClCompile Include="ButtonBase.cpp" />
+    <ClCompile Include="CheckPoint.cpp" />
+    <ClCompile Include="DecoObject.cpp" />
+    <ClCompile Include="DieScene.cpp" />
+    <ClCompile Include="EnemyBase.cpp" />
+    <ClCompile Include="FadeInObject.cpp" />
+    <ClCompile Include="FadeOutObject.cpp" />
+    <ClCompile Include="FallingBlock.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="InfoButton.cpp" />
+    <ClCompile Include="Intro.cpp" />
+    <ClCompile Include="IntroBackGround.cpp" />
+    <ClCompile Include="BoxBase.cpp" />
+    <ClCompile Include="JsonManager.cpp" />
+    <ClCompile Include="LoadingScene.cpp" />
+    <ClCompile Include="LoadingSceneObject.cpp" />
+    <ClCompile Include="MainCamera.cpp" />
+    <ClCompile Include="MallaengiMain.cpp" />
+    <ClCompile Include="LRMovingPlatform.cpp" />
+    <ClCompile Include="Option.cpp" />
+    <ClCompile Include="Platform.cpp" />
+    <ClCompile Include="PlatformBase.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="PreCompiledHeader.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="Resource.cpp" />
+    <ClCompile Include="Scene.cpp" />
+    <ClCompile Include="StageOne.cpp" />
+    <ClCompile Include="StageThree1.cpp" />
+    <ClCompile Include="StageThree2.cpp" />
+    <ClCompile Include="StageThree3.cpp" />
+    <ClCompile Include="StageThree4.cpp" />
+    <ClCompile Include="StageThree5.cpp" />
+    <ClCompile Include="StageTwo.cpp" />
+    <ClCompile Include="StartButton.cpp" />
+    <ClCompile Include="SubCamera.cpp" />
+    <ClCompile Include="TimeDiffTrap.cpp" />
+    <ClCompile Include="Title.cpp" />
+    <ClCompile Include="TransBox.cpp" />
+    <ClCompile Include="TrapTile.cpp" />
+    <ClCompile Include="TriggerBlock.cpp" />
+    <ClCompile Include="TriggerDoor.cpp" />
+    <ClCompile Include="TriggerPigeon.cpp" />
+    <ClCompile Include="TriggerTrap.cpp" />
+    <ClCompile Include="UDMovingPlatform.cpp" />
+    <ClCompile Include="UIDecoObject.cpp" />
+    <ClCompile Include="UpperEnemy.cpp" />
+    <ClCompile Include="UpperShuriken.cpp" />
+    <ClCompile Include="WalkPad.cpp" />
+    <ClCompile Include="Watch.cpp" />
+    <ClCompile Include="WeightNumber.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Back.h" />
+    <ClInclude Include="BigBarTrap.h" />
+    <ClInclude Include="BodyScale.h" />
+    <ClInclude Include="BrokenHeart.h" />
+    <ClInclude Include="CatBoxTrap.h" />
+    <ClInclude Include="CollisionGrid.h" />
+    <ClInclude Include="CreditScene.h" />
+    <ClInclude Include="DoorOpen.h" />
+    <ClInclude Include="DumbellDown.h" />
+    <ClInclude Include="EndingSceneOne.h" />
+    <ClInclude Include="EndingSceneTwo.h" />
+    <ClInclude Include="Exit.h" />
+    <ClInclude Include="ExitPortal.h" />
+    <ClInclude Include="FakeTriggerBuilding.h" />
+    <ClInclude Include="FallingBlockTriggerTrap.h" />
+    <ClInclude Include="FallingDum.h" />
+    <ClInclude Include="FallingEnemy.h" />
+    <ClInclude Include="FallingPlatform.h" />
+    <ClInclude Include="FallingTriggerTrap.h" />
+    <ClInclude Include="FiveFalling.h" />
+    <ClInclude Include="Food.h" />
+    <ClInclude Include="FreeEnemy.h" />
+    <ClInclude Include="ItemBox.h" />
+    <ClInclude Include="JumpEnemy.h" />
+    <ClInclude Include="Ketchap.h" />
+    <ClInclude Include="KetchapTrap.h" />
+    <ClInclude Include="KillMayo.h" />
+    <ClInclude Include="LandingEffect.h" />
+    <ClInclude Include="LRMob.h" />
+    <ClInclude Include="MinusButton.h" />
+    <ClInclude Include="Niddle.h" />
+    <ClInclude Include="OneWayMob.h" />
+    <ClInclude Include="NachoShuriken.h" />
+    <ClInclude Include="NarrativeSprite.h" />
+    <ClInclude Include="OneWayMobTrigger.h" />
+    <ClInclude Include="RedRight.h" />
+    <ClInclude Include="RedUp.h" />
+    <ClInclude Include="RidingNacho.h" />
+    <ClInclude Include="SlowNiddle.h" />
+    <ClInclude Include="RunEffect.h" />
+    <ClInclude Include="Stage1OpeningScene.h" />
+    <ClInclude Include="PlusButton.h" />
+    <ClInclude Include="Portal.h" />
+    <ClInclude Include="ProgressBar.h" />
+    <ClInclude Include="Restart.h" />
+    <ClInclude Include="RestartButton.h" />
+    <ClInclude Include="RisingTrap.h" />
+    <ClInclude Include="SavePointBoxTrap.h" />
+    <ClInclude Include="ShurikenPlatform.h" />
+    <ClInclude Include="Stage2OpeningScene.h" />
+    <ClInclude Include="Stage3OpeningScene.h" />
+    <ClInclude Include="StageOneBackGround.h" />
+    <ClInclude Include="BlockBase.h" />
+    <ClInclude Include="BlockPlatform.h" />
+    <ClInclude Include="BreakableBlock.h" />
+    <ClInclude Include="ButtonBase.h" />
+    <ClInclude Include="CheckPoint.h" />
+    <ClInclude Include="DecoObject.h" />
+    <ClInclude Include="DieScene.h" />
+    <ClInclude Include="EnemyBase.h" />
+    <ClInclude Include="FadeInObject.h" />
+    <ClInclude Include="FadeOutObject.h" />
+    <ClInclude Include="FallingBlock.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="InfoButton.h" />
+    <ClInclude Include="Intro.h" />
+    <ClInclude Include="IntroBackGround.h" />
+    <ClInclude Include="BoxBase.h" />
+    <ClInclude Include="JsonManager.h" />
+    <ClInclude Include="LoadingScene.h" />
+    <ClInclude Include="LoadingSceneObject.h" />
+    <ClInclude Include="LRMovingPlatform.h" />
+    <ClInclude Include="MainCamera.h" />
+    <ClInclude Include="Option.h" />
+    <ClInclude Include="Platform.h" />
+    <ClInclude Include="PlatformBase.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="PreCompiledHeader.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="Scene.h" />
+    <ClInclude Include="StageOne.h" />
+    <ClInclude Include="StageThree1.h" />
+    <ClInclude Include="StageThree2.h" />
+    <ClInclude Include="StageThree3.h" />
+    <ClInclude Include="StageThree4.h" />
+    <ClInclude Include="StageThree5.h" />
+    <ClInclude Include="StageTwo.h" />
+    <ClInclude Include="StartButton.h" />
+    <ClInclude Include="SubCamera.h" />
+    <ClInclude Include="TimeDiffTrap.h" />
+    <ClInclude Include="Title.h" />
+    <ClInclude Include="TransBox.h" />
+    <ClInclude Include="TrapTile.h" />
+    <ClInclude Include="TriggerBlock.h" />
+    <ClInclude Include="TriggerDoor.h" />
+    <ClInclude Include="TriggerPigeon.h" />
+    <ClInclude Include="TriggerTrap.h" />
+    <ClInclude Include="UDMovingPlatform.h" />
+    <ClInclude Include="UIDecoObject.h" />
+    <ClInclude Include="UpperEnemy.h" />
+    <ClInclude Include="UpperShuriken.h" />
+    <ClInclude Include="WalkPad.h" />
+    <ClInclude Include="Watch.h" />
+    <ClInclude Include="WeightNumber.h" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{8d5bc336-2853-41ac-8abc-cb4f20443bf5}</ProjectGuid>
+    <RootNamespace>Client</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>..\..\Output\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>..\..\Output\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>..\..\Output\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>..\..\Output\</OutDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>PreCompiledHeader.h</PrecompiledHeaderFile>
+      <AdditionalIncludeDirectories>$(SolutionDir)..\..\Engine\Engine\;$(SolutionDir)..\..\Library\rapidjson\;$(SolutionDir)..\..\Library\Json\;$(SolutionDir)..\..\..\Output\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <Manifest>
+      <EnableDpiAwareness>false</EnableDpiAwareness>
+    </Manifest>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>PreCompiledHeader.h</PrecompiledHeaderFile>
+      <AdditionalIncludeDirectories>$(SolutionDir)..\..\Engine\Engine\;$(SolutionDir)..\..\Library\rapidjson\;$(SolutionDir)..\..\Library\Json\;$(SolutionDir)..\..\..\Output\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>PreCompiledHeader.h</PrecompiledHeaderFile>
+      <AdditionalIncludeDirectories>$(SolutionDir)..\..\Engine\Engine\;$(SolutionDir)..\..\Library\rapidjson\;$(SolutionDir)..\..\Library\Json\;$(SolutionDir)..\..\..\Output\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>PreCompiledHeader.h</PrecompiledHeaderFile>
+      <AdditionalIncludeDirectories>$(SolutionDir)..\..\Engine\Engine\;$(SolutionDir)..\..\Library\rapidjson\;$(SolutionDir)..\..\Library\Json\;$(SolutionDir)..\..\..\Output\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

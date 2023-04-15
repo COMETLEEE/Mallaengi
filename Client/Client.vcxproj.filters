@@ -1,0 +1,975 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="WinMain">
+      <UniqueIdentifier>{bd3692ab-1b2c-4d9c-839b-c63165f7bf18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{5bc82303-d8b3-4923-a257-025c2ad8c461}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects">
+      <UniqueIdentifier>{31dcfe37-72da-4b29-a0d4-b154132aef0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Block">
+      <UniqueIdentifier>{4c64a247-57b8-4ce5-804a-c50defaeb9d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Block\BlockBase">
+      <UniqueIdentifier>{6d7af6b8-c019-4f31-afd7-12d8aa2691ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Block\BreakableBlock">
+      <UniqueIdentifier>{91213f15-dbf4-4cc7-add8-a6ba00f40ed9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Block\TriggerBlock">
+      <UniqueIdentifier>{815d6006-1216-4d4d-9f8b-f1bb003d5a7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\LoadingObject">
+      <UniqueIdentifier>{fa70bcd5-30bc-48b7-a1aa-5735e2ecd9eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Structure">
+      <UniqueIdentifier>{5b3618cb-9682-4edb-9eb0-3d4a26808d0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Structure\LRMovingPlatform">
+      <UniqueIdentifier>{b4c9b348-6c3b-400d-97df-575e3232903e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Structure\UDMovingPlatform">
+      <UniqueIdentifier>{2ccd7924-c5e8-41e6-8c09-42dd3ed0c525}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Resource">
+      <UniqueIdentifier>{348a969b-4738-4014-8b70-6da2e284bb79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Camera">
+      <UniqueIdentifier>{734a378c-be9e-4f09-ae5f-afdee2b44fa0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Camera\MainCamera">
+      <UniqueIdentifier>{eb75f41e-219e-4712-9d81-f4ef3c04035b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Camera\SubCamera">
+      <UniqueIdentifier>{58256b58-2556-4326-b5ed-fd6e2eb56cf8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Resource\JsonManager">
+      <UniqueIdentifier>{bb512e0f-d2a5-42e6-9ae0-4bd8f3262ba4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\DecoObject">
+      <UniqueIdentifier>{b9ad2289-5380-411a-ba3c-a4e209604a7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\CheckPoint">
+      <UniqueIdentifier>{c489a3d2-7c7d-4abe-8932-d6a1774def99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\SceneBase">
+      <UniqueIdentifier>{7acd23a7-2dc9-4414-9886-b64f5c826e33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameScenes">
+      <UniqueIdentifier>{382fc613-e93a-4169-8abd-212d5b39e80c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameScenes\Intro">
+      <UniqueIdentifier>{eaf823e5-63b7-4f56-a64a-93af380636d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameScenes\Stage1">
+      <UniqueIdentifier>{43147259-9c9a-4d67-ae32-e316dbcde4c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameScenes\Stage3">
+      <UniqueIdentifier>{bbd42927-91fe-4481-ad84-766bb923adf4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameScenes\Stage2">
+      <UniqueIdentifier>{1bbce047-ebbe-459b-a09d-ffdd06407e57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameScenes\LoadingScene">
+      <UniqueIdentifier>{47ed0fa1-4c3a-4269-b835-eade4e7fcbfb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameScenes\DieScene">
+      <UniqueIdentifier>{0a237e1c-377d-4490-af94-d2e64cfeb51b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\BackGroundObject">
+      <UniqueIdentifier>{914df8ed-1669-4085-b6b7-32f5a31ddbb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\BackGroundObject\IntroBackGround">
+      <UniqueIdentifier>{abeb4a2e-e8ad-4e48-8dd3-f85078155699}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\BackGroundObject\StageOneBackGround">
+      <UniqueIdentifier>{8cd2b5a3-181d-4e65-a15e-e27d250c9a6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Box">
+      <UniqueIdentifier>{c49ac903-8aaa-4611-a405-404cd3b193ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Box\TransBox">
+      <UniqueIdentifier>{2a24df8e-3fb4-47e0-ad12-9e627f89d9f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Box\BoxBase">
+      <UniqueIdentifier>{d12a1af9-2499-4341-8a19-fe90412ddf60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Item">
+      <UniqueIdentifier>{d1fe92c3-9afb-444f-9281-2642416f27de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Box\ItemBox">
+      <UniqueIdentifier>{cfd55a88-3d94-414d-a8df-5e24332d6d1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Platform">
+      <UniqueIdentifier>{0b330222-ef44-4802-814d-3e12aaa52883}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Platform\PlatformBase">
+      <UniqueIdentifier>{4448a175-8873-4221-b497-6f7fcac40bae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Platform\Platform">
+      <UniqueIdentifier>{830fd5ff-e066-4cb7-8b28-eeeed93c209c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Platform\BlockPlatform">
+      <UniqueIdentifier>{d0821bb0-258e-4674-b906-60d1a0b269f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Player">
+      <UniqueIdentifier>{6d4453aa-0648-43f3-8ad5-442872e7f88c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Optimizing">
+      <UniqueIdentifier>{70aa2bbc-be91-45cb-8f10-d084d9d0246a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="WinMain\PreCompiledHeader">
+      <UniqueIdentifier>{22d8eb4c-6e23-4a4c-bf4d-e6a7d551a415}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemy">
+      <UniqueIdentifier>{099ae383-f720-49ac-bbad-70a934ac3613}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemy\FreeEnemy">
+      <UniqueIdentifier>{7881052e-f6c8-43d2-bda6-b3d466ccfc4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemy\EnemyBase">
+      <UniqueIdentifier>{cf41bf43-ccfc-42d3-a2a6-cfaed519139d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap">
+      <UniqueIdentifier>{309289db-b3ac-4058-b3be-e63a0bfa86d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\TriggerTrap">
+      <UniqueIdentifier>{c806f45a-369b-4a71-8249-e151f8bed146}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\TimeDiffTrap">
+      <UniqueIdentifier>{12f3623b-9ad9-48a8-90e7-d12607bb60dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\RisingTrap">
+      <UniqueIdentifier>{8486318a-23df-4bf8-9217-063741bf4dba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\FallingBlock">
+      <UniqueIdentifier>{a0526b68-a782-4361-bff9-df1d91f0b829}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\FallingPlatform">
+      <UniqueIdentifier>{634b29e2-1f7f-474d-be34-81d849d9f846}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\FallingTriggerTrap">
+      <UniqueIdentifier>{75b23d3d-e968-4d77-b951-17b4803346c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\FallingBlockTriggerTrap">
+      <UniqueIdentifier>{f42a98ac-6cea-49c7-a08e-b8dcb9053760}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\UpperEnemy">
+      <UniqueIdentifier>{53505a61-df15-4b32-a83b-89c0cac652a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\FakeTriggerBuilding">
+      <UniqueIdentifier>{b705f042-f8a6-43be-bd6d-ed317ff79aab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\TriggerPigeon">
+      <UniqueIdentifier>{f3205ba8-50fb-4fee-a721-5c582ff5df0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\FallingEnemy">
+      <UniqueIdentifier>{797e6f37-cfd1-41ca-b8e7-7e533a1f5db0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\NachoShuriken">
+      <UniqueIdentifier>{62e3581f-9293-451f-b901-7a17ab97113c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\NachoShuriken\ShurikenPlatform">
+      <UniqueIdentifier>{768b1acf-a172-4c6b-b4fc-d5607c7e045f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\NachoShuriken\UpperShuriken">
+      <UniqueIdentifier>{36b7315e-d999-44e1-888e-923e735f749b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\KetchapTrap">
+      <UniqueIdentifier>{87917fc6-2cc2-442e-839d-79a16985f0c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\SavePointBoxTrap">
+      <UniqueIdentifier>{1e710541-0a49-46ac-983d-f5a80e8cb3d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Portal">
+      <UniqueIdentifier>{529f9ce7-947b-485d-b514-fec02942f744}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemy\JumpEnemy">
+      <UniqueIdentifier>{38bd5196-d816-4a67-8e76-45ced7d32e2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\CatBoxTrap">
+      <UniqueIdentifier>{28557f33-ad55-4041-8405-c1938039ce64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\NarrativeSprite">
+      <UniqueIdentifier>{55b13eb9-da14-464f-bd29-ce476c12cf24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\WalkPad">
+      <UniqueIdentifier>{871346fd-d1f0-4a0f-9ea1-1b9b39bae4a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemy\FallingDum">
+      <UniqueIdentifier>{9de38601-36b5-431f-8123-d84ed47945bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\DumbellDown">
+      <UniqueIdentifier>{8db96a0a-8793-4963-9dc4-86f5747e32fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\DoorOpen">
+      <UniqueIdentifier>{90779b0b-d448-4555-99ba-fab54616da3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{bc8d7ebc-437b-4133-82a8-5c611efdf98b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Button">
+      <UniqueIdentifier>{86c6b480-d637-419f-9e15-3ca1224f4419}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Button\ButtonBase">
+      <UniqueIdentifier>{d8b264c8-2eeb-41dc-a907-9dcca04d4e80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Button\StartButton">
+      <UniqueIdentifier>{877a1faa-ec5e-4e0d-ac2e-49f74eafc36e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Button\InfoButton">
+      <UniqueIdentifier>{727e8c53-62db-4e17-8151-013ebd6fe740}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Button\RestartButton">
+      <UniqueIdentifier>{ec2ebc91-be88-4e79-8831-c16f79006cb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\UIDecoObject">
+      <UniqueIdentifier>{fd51ad01-bc65-488e-a025-a9f743ebdb49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\FadeInObject">
+      <UniqueIdentifier>{9e4d0498-f59d-46e8-8b1f-4fe7aa96aad5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\FadeOutObject">
+      <UniqueIdentifier>{694c169b-8dea-488d-9778-76c808a74edd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Menu">
+      <UniqueIdentifier>{1ffd709e-5121-4634-8ad6-83176ea7d02e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Menu\Restart">
+      <UniqueIdentifier>{cfb61d03-556b-468a-a66f-5119e3325337}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Menu\Exit">
+      <UniqueIdentifier>{be735ab8-c1f9-4061-ac09-6692d9cb885c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Menu\Back">
+      <UniqueIdentifier>{3916860a-4570-4c76-9470-1f7d4adbb7a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Menu\Title">
+      <UniqueIdentifier>{78dc7344-e467-4b36-9b7f-28e248f39baf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\BodyScale">
+      <UniqueIdentifier>{bfd7dc02-8cdb-4e07-8c3a-f0b86f91ef76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemy\OneWayMob">
+      <UniqueIdentifier>{7ff4f342-fc3e-439c-8778-c2ee6223747d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Button\PlusButton">
+      <UniqueIdentifier>{6f9bd413-be95-419b-bb91-382858c0c2ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Button\MinusButton">
+      <UniqueIdentifier>{f83437dc-fcdb-4c92-bfcd-0d2cb2994a4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\ProgressBar">
+      <UniqueIdentifier>{fe0b888d-79a5-47ba-9117-9940ed0612a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\Niddle">
+      <UniqueIdentifier>{a55206b2-11a6-4a17-b24c-791a41d055ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\OneWayMobTrigger">
+      <UniqueIdentifier>{ce5a5c76-5215-4a48-b336-7f0e0816c41c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameScenes\Stage2OpeningScene">
+      <UniqueIdentifier>{8c9182a7-f056-46fe-8024-52d348e34bfd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameScenes\Stage1OpeningScene">
+      <UniqueIdentifier>{501a3028-1bf1-4c39-be13-2edcc6c21640}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Watch">
+      <UniqueIdentifier>{4ac023ad-abf1-478b-be4b-57291b3c7ba9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trap\BigBarTrap">
+      <UniqueIdentifier>{675e11b7-f42a-4118-b427-3da7cc0af4c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stage3Objects">
+      <UniqueIdentifier>{c301a473-0d26-4685-baba-755d3b8dd399}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stage3Objects\ExitPortal">
+      <UniqueIdentifier>{7c5feaba-b867-49c5-be2d-969ca9076b00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameScenes\Stage3OpeningScene">
+      <UniqueIdentifier>{af6f0748-87b6-4719-99fe-04ddc7110530}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stage3Objects\RedRight">
+      <UniqueIdentifier>{55202ad2-b5a1-4c90-8bbd-83b46d91d214}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stage3Objects\RedUp">
+      <UniqueIdentifier>{97ccff78-bd6e-439e-9f02-b575013a10ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemy\LRMob">
+      <UniqueIdentifier>{23a0dbc0-afa7-4303-9b4d-0ce645866699}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stage3Objects\BrokenHeart">
+      <UniqueIdentifier>{72c114ae-b281-4dad-8155-f50a6811c44a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stage3Objects\SlowNiddle">
+      <UniqueIdentifier>{64ec36e2-ce7d-494f-8cb4-54925e85c085}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Effects">
+      <UniqueIdentifier>{99f81ded-e150-4328-a431-7564c7138d35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Effects\RunEffect">
+      <UniqueIdentifier>{4f33120c-c5e7-4643-b93c-5b575cdfaadc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stage3Objects\TrapTile">
+      <UniqueIdentifier>{a191517d-2605-491e-9540-d368370b9dc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stage3Objects\FiveFalling">
+      <UniqueIdentifier>{69449995-294c-4015-8646-7ddb4b9f9c1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stage3Objects\RidingNacho">
+      <UniqueIdentifier>{c83eb992-3aeb-4979-99f0-e0129bab6896}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Effects\LandingEffect">
+      <UniqueIdentifier>{dfce74b4-f9b6-43bc-9025-ab589303e6e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Effects\WeightNumber">
+      <UniqueIdentifier>{5f04718f-7589-4760-89b7-2fe08751eb25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stage3Objects\TriggerDoor">
+      <UniqueIdentifier>{4a877442-3676-48ad-a391-905c7356ff7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameScenes\EndingScene2">
+      <UniqueIdentifier>{980e8175-de1e-405b-9ec6-4301b72a04ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameScenes\EndingScene1">
+      <UniqueIdentifier>{cce4ce21-1ceb-49c7-8512-f794277fe4a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameScenes\CreditScene">
+      <UniqueIdentifier>{5e8499df-fc1b-4b69-ba05-06baa92e9361}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MallaengiMain.cpp">
+      <Filter>WinMain</Filter>
+    </ClCompile>
+    <ClCompile Include="PreCompiledHeader.cpp">
+      <Filter>WinMain\PreCompiledHeader</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Game\SceneBase</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="StageOne.cpp">
+      <Filter>Game\GameScenes\Stage1</Filter>
+    </ClCompile>
+    <ClCompile Include="StageTwo.cpp">
+      <Filter>Game\GameScenes\Stage2</Filter>
+    </ClCompile>
+    <ClCompile Include="StageThree1.cpp">
+      <Filter>Game\GameScenes\Stage3</Filter>
+    </ClCompile>
+    <ClCompile Include="Intro.cpp">
+      <Filter>Game\GameScenes\Intro</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockBase.cpp">
+      <Filter>Objects\Block\BlockBase</Filter>
+    </ClCompile>
+    <ClCompile Include="TransBox.cpp">
+      <Filter>Objects\Box\TransBox</Filter>
+    </ClCompile>
+    <ClCompile Include="BreakableBlock.cpp">
+      <Filter>Objects\Block\BreakableBlock</Filter>
+    </ClCompile>
+    <ClCompile Include="PlatformBase.cpp">
+      <Filter>Objects\Platform\PlatformBase</Filter>
+    </ClCompile>
+    <ClCompile Include="Platform.cpp">
+      <Filter>Objects\Platform\Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="FallingBlock.cpp">
+      <Filter>Trap\FallingBlock</Filter>
+    </ClCompile>
+    <ClCompile Include="TriggerBlock.cpp">
+      <Filter>Objects\Block\TriggerBlock</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadingScene.cpp">
+      <Filter>Game\GameScenes\LoadingScene</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadingSceneObject.cpp">
+      <Filter>Objects\LoadingObject</Filter>
+    </ClCompile>
+    <ClCompile Include="LRMovingPlatform.cpp">
+      <Filter>Objects\Structure\LRMovingPlatform</Filter>
+    </ClCompile>
+    <ClCompile Include="ButtonBase.cpp">
+      <Filter>UI\Button\ButtonBase</Filter>
+    </ClCompile>
+    <ClCompile Include="Option.cpp">
+      <Filter>UI\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="UDMovingPlatform.cpp">
+      <Filter>Objects\Structure\UDMovingPlatform</Filter>
+    </ClCompile>
+    <ClCompile Include="TriggerTrap.cpp">
+      <Filter>Trap\TriggerTrap</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource.cpp">
+      <Filter>Game\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="StartButton.cpp">
+      <Filter>UI\Button\StartButton</Filter>
+    </ClCompile>
+    <ClCompile Include="MainCamera.cpp">
+      <Filter>Objects\Camera\MainCamera</Filter>
+    </ClCompile>
+    <ClCompile Include="SubCamera.cpp">
+      <Filter>Objects\Camera\SubCamera</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeDiffTrap.cpp">
+      <Filter>Trap\TimeDiffTrap</Filter>
+    </ClCompile>
+    <ClCompile Include="JsonManager.cpp">
+      <Filter>Game\Resource\JsonManager</Filter>
+    </ClCompile>
+    <ClCompile Include="DecoObject.cpp">
+      <Filter>Objects\DecoObject</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckPoint.cpp">
+      <Filter>Objects\CheckPoint</Filter>
+    </ClCompile>
+    <ClCompile Include="InfoButton.cpp">
+      <Filter>UI\Button\InfoButton</Filter>
+    </ClCompile>
+    <ClCompile Include="UIDecoObject.cpp">
+      <Filter>UI\UIDecoObject</Filter>
+    </ClCompile>
+    <ClCompile Include="IntroBackGround.cpp">
+      <Filter>Objects\BackGroundObject\IntroBackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="FadeInObject.cpp">
+      <Filter>UI\FadeInObject</Filter>
+    </ClCompile>
+    <ClCompile Include="FadeOutObject.cpp">
+      <Filter>UI\FadeOutObject</Filter>
+    </ClCompile>
+    <ClCompile Include="DieScene.cpp">
+      <Filter>Game\GameScenes\DieScene</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockPlatform.cpp">
+      <Filter>Objects\Platform\BlockPlatform</Filter>
+    </ClCompile>
+    <ClCompile Include="StageOneBackGround.cpp">
+      <Filter>Objects\BackGroundObject\StageOneBackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="BoxBase.cpp">
+      <Filter>Objects\Box\BoxBase</Filter>
+    </ClCompile>
+    <ClCompile Include="Food.cpp">
+      <Filter>Objects\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemBox.cpp">
+      <Filter>Objects\Box\ItemBox</Filter>
+    </ClCompile>
+    <ClCompile Include="RisingTrap.cpp">
+      <Filter>Trap\RisingTrap</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionGrid.cpp">
+      <Filter>Game\Optimizing</Filter>
+    </ClCompile>
+    <ClCompile Include="RestartButton.cpp">
+      <Filter>UI\Button\RestartButton</Filter>
+    </ClCompile>
+    <ClCompile Include="Restart.cpp">
+      <Filter>UI\Menu\Restart</Filter>
+    </ClCompile>
+    <ClCompile Include="Back.cpp">
+      <Filter>UI\Menu\Back</Filter>
+    </ClCompile>
+    <ClCompile Include="Title.cpp">
+      <Filter>UI\Menu\Title</Filter>
+    </ClCompile>
+    <ClCompile Include="Exit.cpp">
+      <Filter>UI\Menu\Exit</Filter>
+    </ClCompile>
+    <ClCompile Include="BodyScale.cpp">
+      <Filter>UI\BodyScale</Filter>
+    </ClCompile>
+    <ClCompile Include="FreeEnemy.cpp">
+      <Filter>Enemy\FreeEnemy</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyBase.cpp">
+      <Filter>Enemy\EnemyBase</Filter>
+    </ClCompile>
+    <ClCompile Include="FallingPlatform.cpp">
+      <Filter>Trap\FallingPlatform</Filter>
+    </ClCompile>
+    <ClCompile Include="FallingTriggerTrap.cpp">
+      <Filter>Trap\FallingTriggerTrap</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="FallingBlockTriggerTrap.cpp">
+      <Filter>Trap\FallingBlockTriggerTrap</Filter>
+    </ClCompile>
+    <ClCompile Include="UpperEnemy.cpp">
+      <Filter>Trap\UpperEnemy</Filter>
+    </ClCompile>
+    <ClCompile Include="FakeTriggerBuilding.cpp">
+      <Filter>Trap\FakeTriggerBuilding</Filter>
+    </ClCompile>
+    <ClCompile Include="TriggerPigeon.cpp">
+      <Filter>Trap\TriggerPigeon</Filter>
+    </ClCompile>
+    <ClCompile Include="FallingEnemy.cpp">
+      <Filter>Trap\FallingEnemy</Filter>
+    </ClCompile>
+    <ClCompile Include="NachoShuriken.cpp">
+      <Filter>Trap\NachoShuriken</Filter>
+    </ClCompile>
+    <ClCompile Include="ShurikenPlatform.cpp">
+      <Filter>Trap\NachoShuriken\ShurikenPlatform</Filter>
+    </ClCompile>
+    <ClCompile Include="UpperShuriken.cpp">
+      <Filter>Trap\NachoShuriken\UpperShuriken</Filter>
+    </ClCompile>
+    <ClCompile Include="Ketchap.cpp">
+      <Filter>Trap\KetchapTrap</Filter>
+    </ClCompile>
+    <ClCompile Include="KetchapTrap.cpp">
+      <Filter>Trap\KetchapTrap</Filter>
+    </ClCompile>
+    <ClCompile Include="SavePointBoxTrap.cpp">
+      <Filter>Trap\SavePointBoxTrap</Filter>
+    </ClCompile>
+    <ClCompile Include="KillMayo.cpp">
+      <Filter>Trap\SavePointBoxTrap</Filter>
+    </ClCompile>
+    <ClCompile Include="Portal.cpp">
+      <Filter>Objects\Portal</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage1OpeningScene.cpp">
+      <Filter>Game\GameScenes\Stage1OpeningScene</Filter>
+    </ClCompile>
+    <ClCompile Include="JumpEnemy.cpp">
+      <Filter>Enemy\JumpEnemy</Filter>
+    </ClCompile>
+    <ClCompile Include="CatBoxTrap.cpp">
+      <Filter>Trap\CatBoxTrap</Filter>
+    </ClCompile>
+    <ClCompile Include="NarrativeSprite.cpp">
+      <Filter>Objects\NarrativeSprite</Filter>
+    </ClCompile>
+    <ClCompile Include="WalkPad.cpp">
+      <Filter>Trap\WalkPad</Filter>
+    </ClCompile>
+    <ClCompile Include="FallingDum.cpp">
+      <Filter>Enemy\FallingDum</Filter>
+    </ClCompile>
+    <ClCompile Include="DumbellDown.cpp">
+      <Filter>Trap\DumbellDown</Filter>
+    </ClCompile>
+    <ClCompile Include="DoorOpen.cpp">
+      <Filter>Trap\DoorOpen</Filter>
+    </ClCompile>
+    <ClCompile Include="OneWayMob.cpp">
+      <Filter>Enemy\OneWayMob</Filter>
+    </ClCompile>
+    <ClCompile Include="PlusButton.cpp">
+      <Filter>UI\Button\PlusButton</Filter>
+    </ClCompile>
+    <ClCompile Include="MinusButton.cpp">
+      <Filter>UI\Button\MinusButton</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgressBar.cpp">
+      <Filter>UI\ProgressBar</Filter>
+    </ClCompile>
+    <ClCompile Include="Niddle.cpp">
+      <Filter>Trap\Niddle</Filter>
+    </ClCompile>
+    <ClCompile Include="OneWayMobTrigger.cpp">
+      <Filter>Trap\OneWayMobTrigger</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage2OpeningScene.cpp">
+      <Filter>Game\GameScenes\Stage2OpeningScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Watch.cpp">
+      <Filter>UI\Watch</Filter>
+    </ClCompile>
+    <ClCompile Include="BigBarTrap.cpp">
+      <Filter>Trap\BigBarTrap</Filter>
+    </ClCompile>
+    <ClCompile Include="StageThree2.cpp">
+      <Filter>Game\GameScenes\Stage3</Filter>
+    </ClCompile>
+    <ClCompile Include="StageThree3.cpp">
+      <Filter>Game\GameScenes\Stage3</Filter>
+    </ClCompile>
+    <ClCompile Include="StageThree4.cpp">
+      <Filter>Game\GameScenes\Stage3</Filter>
+    </ClCompile>
+    <ClCompile Include="StageThree5.cpp">
+      <Filter>Game\GameScenes\Stage3</Filter>
+    </ClCompile>
+    <ClCompile Include="ExitPortal.cpp">
+      <Filter>Stage3Objects\ExitPortal</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage3OpeningScene.cpp">
+      <Filter>Game\GameScenes\Stage3OpeningScene</Filter>
+    </ClCompile>
+    <ClCompile Include="RedRight.cpp">
+      <Filter>Stage3Objects\RedRight</Filter>
+    </ClCompile>
+    <ClCompile Include="RedUp.cpp">
+      <Filter>Stage3Objects\RedUp</Filter>
+    </ClCompile>
+    <ClCompile Include="LRMob.cpp">
+      <Filter>Enemy\LRMob</Filter>
+    </ClCompile>
+    <ClCompile Include="BrokenHeart.cpp">
+      <Filter>Stage3Objects\BrokenHeart</Filter>
+    </ClCompile>
+    <ClCompile Include="SlowNiddle.cpp">
+      <Filter>Stage3Objects\SlowNiddle</Filter>
+    </ClCompile>
+    <ClCompile Include="RunEffect.cpp">
+      <Filter>Objects\Effects\RunEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="FiveFalling.cpp">
+      <Filter>Stage3Objects\FiveFalling</Filter>
+    </ClCompile>
+    <ClCompile Include="RidingNacho.cpp">
+      <Filter>Stage3Objects\RidingNacho</Filter>
+    </ClCompile>
+    <ClCompile Include="EndingSceneTwo.cpp">
+      <Filter>Game\GameScenes\EndingScene2</Filter>
+    </ClCompile>
+    <ClCompile Include="LandingEffect.cpp">
+      <Filter>Objects\Effects\LandingEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="WeightNumber.cpp">
+      <Filter>Objects\Effects\WeightNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="TriggerDoor.cpp">
+      <Filter>Stage3Objects\TriggerDoor</Filter>
+    </ClCompile>
+    <ClCompile Include="TrapTile.cpp">
+      <Filter>Stage3Objects\TrapTile</Filter>
+    </ClCompile>
+    <ClCompile Include="EndingSceneOne.cpp">
+      <Filter>Game\GameScenes\EndingScene1</Filter>
+    </ClCompile>
+    <ClCompile Include="CreditScene.cpp">
+      <Filter>Game\GameScenes\CreditScene</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="PreCompiledHeader.h">
+      <Filter>WinMain\PreCompiledHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Game\SceneBase</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="StageOne.h">
+      <Filter>Game\GameScenes\Stage1</Filter>
+    </ClInclude>
+    <ClInclude Include="StageTwo.h">
+      <Filter>Game\GameScenes\Stage2</Filter>
+    </ClInclude>
+    <ClInclude Include="StageThree1.h">
+      <Filter>Game\GameScenes\Stage3</Filter>
+    </ClInclude>
+    <ClInclude Include="Intro.h">
+      <Filter>Game\GameScenes\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockBase.h">
+      <Filter>Objects\Block\BlockBase</Filter>
+    </ClInclude>
+    <ClInclude Include="TransBox.h">
+      <Filter>Objects\Box\TransBox</Filter>
+    </ClInclude>
+    <ClInclude Include="BreakableBlock.h">
+      <Filter>Objects\Block\BreakableBlock</Filter>
+    </ClInclude>
+    <ClInclude Include="PlatformBase.h">
+      <Filter>Objects\Platform\PlatformBase</Filter>
+    </ClInclude>
+    <ClInclude Include="Platform.h">
+      <Filter>Objects\Platform\Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="FallingBlock.h">
+      <Filter>Trap\FallingBlock</Filter>
+    </ClInclude>
+    <ClInclude Include="TriggerBlock.h">
+      <Filter>Objects\Block\TriggerBlock</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadingScene.h">
+      <Filter>Game\GameScenes\LoadingScene</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadingSceneObject.h">
+      <Filter>Objects\LoadingObject</Filter>
+    </ClInclude>
+    <ClInclude Include="LRMovingPlatform.h">
+      <Filter>Objects\Structure\LRMovingPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="ButtonBase.h">
+      <Filter>UI\Button\ButtonBase</Filter>
+    </ClInclude>
+    <ClInclude Include="Option.h">
+      <Filter>UI\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="UDMovingPlatform.h">
+      <Filter>Objects\Structure\UDMovingPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="TriggerTrap.h">
+      <Filter>Trap\TriggerTrap</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Game\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="StartButton.h">
+      <Filter>UI\Button\StartButton</Filter>
+    </ClInclude>
+    <ClInclude Include="MainCamera.h">
+      <Filter>Objects\Camera\MainCamera</Filter>
+    </ClInclude>
+    <ClInclude Include="SubCamera.h">
+      <Filter>Objects\Camera\SubCamera</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeDiffTrap.h">
+      <Filter>Trap\TimeDiffTrap</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonManager.h">
+      <Filter>Game\Resource\JsonManager</Filter>
+    </ClInclude>
+    <ClInclude Include="DecoObject.h">
+      <Filter>Objects\DecoObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckPoint.h">
+      <Filter>Objects\CheckPoint</Filter>
+    </ClInclude>
+    <ClInclude Include="InfoButton.h">
+      <Filter>UI\Button\InfoButton</Filter>
+    </ClInclude>
+    <ClInclude Include="UIDecoObject.h">
+      <Filter>UI\UIDecoObject</Filter>
+    </ClInclude>
+    <ClInclude Include="IntroBackGround.h">
+      <Filter>Objects\BackGroundObject\IntroBackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="FadeInObject.h">
+      <Filter>UI\FadeInObject</Filter>
+    </ClInclude>
+    <ClInclude Include="FadeOutObject.h">
+      <Filter>UI\FadeOutObject</Filter>
+    </ClInclude>
+    <ClInclude Include="DieScene.h">
+      <Filter>Game\GameScenes\DieScene</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockPlatform.h">
+      <Filter>Objects\Platform\BlockPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="StageOneBackGround.h">
+      <Filter>Objects\BackGroundObject\StageOneBackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="BoxBase.h">
+      <Filter>Objects\Box\BoxBase</Filter>
+    </ClInclude>
+    <ClInclude Include="Food.h">
+      <Filter>Objects\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemBox.h">
+      <Filter>Objects\Box\ItemBox</Filter>
+    </ClInclude>
+    <ClInclude Include="RisingTrap.h">
+      <Filter>Trap\RisingTrap</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionGrid.h">
+      <Filter>Game\Optimizing</Filter>
+    </ClInclude>
+    <ClInclude Include="RestartButton.h">
+      <Filter>UI\Button\RestartButton</Filter>
+    </ClInclude>
+    <ClInclude Include="Restart.h">
+      <Filter>UI\Menu\Restart</Filter>
+    </ClInclude>
+    <ClInclude Include="Back.h">
+      <Filter>UI\Menu\Back</Filter>
+    </ClInclude>
+    <ClInclude Include="Title.h">
+      <Filter>UI\Menu\Title</Filter>
+    </ClInclude>
+    <ClInclude Include="Exit.h">
+      <Filter>UI\Menu\Exit</Filter>
+    </ClInclude>
+    <ClInclude Include="BodyScale.h">
+      <Filter>UI\BodyScale</Filter>
+    </ClInclude>
+    <ClInclude Include="FreeEnemy.h">
+      <Filter>Enemy\FreeEnemy</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyBase.h">
+      <Filter>Enemy\EnemyBase</Filter>
+    </ClInclude>
+    <ClInclude Include="FallingPlatform.h">
+      <Filter>Trap\FallingPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="FallingTriggerTrap.h">
+      <Filter>Trap\FallingTriggerTrap</Filter>
+    </ClInclude>
+    <ClInclude Include="FallingBlockTriggerTrap.h">
+      <Filter>Trap\FallingBlockTriggerTrap</Filter>
+    </ClInclude>
+    <ClInclude Include="UpperEnemy.h">
+      <Filter>Trap\UpperEnemy</Filter>
+    </ClInclude>
+    <ClInclude Include="FakeTriggerBuilding.h">
+      <Filter>Trap\FakeTriggerBuilding</Filter>
+    </ClInclude>
+    <ClInclude Include="TriggerPigeon.h">
+      <Filter>Trap\TriggerPigeon</Filter>
+    </ClInclude>
+    <ClInclude Include="FallingEnemy.h">
+      <Filter>Trap\FallingEnemy</Filter>
+    </ClInclude>
+    <ClInclude Include="NachoShuriken.h">
+      <Filter>Trap\NachoShuriken</Filter>
+    </ClInclude>
+    <ClInclude Include="ShurikenPlatform.h">
+      <Filter>Trap\NachoShuriken\ShurikenPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="UpperShuriken.h">
+      <Filter>Trap\NachoShuriken\UpperShuriken</Filter>
+    </ClInclude>
+    <ClInclude Include="KetchapTrap.h">
+      <Filter>Trap\KetchapTrap</Filter>
+    </ClInclude>
+    <ClInclude Include="Ketchap.h">
+      <Filter>Trap\KetchapTrap</Filter>
+    </ClInclude>
+    <ClInclude Include="SavePointBoxTrap.h">
+      <Filter>Trap\SavePointBoxTrap</Filter>
+    </ClInclude>
+    <ClInclude Include="KillMayo.h">
+      <Filter>Trap\SavePointBoxTrap</Filter>
+    </ClInclude>
+    <ClInclude Include="Portal.h">
+      <Filter>Objects\Portal</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage1OpeningScene.h">
+      <Filter>Game\GameScenes\Stage1OpeningScene</Filter>
+    </ClInclude>
+    <ClInclude Include="JumpEnemy.h">
+      <Filter>Enemy\JumpEnemy</Filter>
+    </ClInclude>
+    <ClInclude Include="CatBoxTrap.h">
+      <Filter>Trap\CatBoxTrap</Filter>
+    </ClInclude>
+    <ClInclude Include="NarrativeSprite.h">
+      <Filter>Objects\NarrativeSprite</Filter>
+    </ClInclude>
+    <ClInclude Include="WalkPad.h">
+      <Filter>Trap\WalkPad</Filter>
+    </ClInclude>
+    <ClInclude Include="FallingDum.h">
+      <Filter>Enemy\FallingDum</Filter>
+    </ClInclude>
+    <ClInclude Include="DumbellDown.h">
+      <Filter>Trap\DumbellDown</Filter>
+    </ClInclude>
+    <ClInclude Include="DoorOpen.h">
+      <Filter>Trap\DoorOpen</Filter>
+    </ClInclude>
+    <ClInclude Include="OneWayMob.h">
+      <Filter>Enemy\OneWayMob</Filter>
+    </ClInclude>
+    <ClInclude Include="PlusButton.h">
+      <Filter>UI\Button\PlusButton</Filter>
+    </ClInclude>
+    <ClInclude Include="MinusButton.h">
+      <Filter>UI\Button\MinusButton</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgressBar.h">
+      <Filter>UI\ProgressBar</Filter>
+    </ClInclude>
+    <ClInclude Include="Niddle.h">
+      <Filter>Trap\Niddle</Filter>
+    </ClInclude>
+    <ClInclude Include="OneWayMobTrigger.h">
+      <Filter>Trap\OneWayMobTrigger</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage2OpeningScene.h">
+      <Filter>Game\GameScenes\Stage2OpeningScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Watch.h">
+      <Filter>UI\Watch</Filter>
+    </ClInclude>
+    <ClInclude Include="BigBarTrap.h">
+      <Filter>Trap\BigBarTrap</Filter>
+    </ClInclude>
+    <ClInclude Include="StageThree2.h">
+      <Filter>Game\GameScenes\Stage3</Filter>
+    </ClInclude>
+    <ClInclude Include="StageThree3.h">
+      <Filter>Game\GameScenes\Stage3</Filter>
+    </ClInclude>
+    <ClInclude Include="StageThree4.h">
+      <Filter>Game\GameScenes\Stage3</Filter>
+    </ClInclude>
+    <ClInclude Include="StageThree5.h">
+      <Filter>Game\GameScenes\Stage3</Filter>
+    </ClInclude>
+    <ClInclude Include="ExitPortal.h">
+      <Filter>Stage3Objects\ExitPortal</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage3OpeningScene.h">
+      <Filter>Game\GameScenes\Stage3OpeningScene</Filter>
+    </ClInclude>
+    <ClInclude Include="RedRight.h">
+      <Filter>Stage3Objects\RedRight</Filter>
+    </ClInclude>
+    <ClInclude Include="RedUp.h">
+      <Filter>Stage3Objects\RedUp</Filter>
+    </ClInclude>
+    <ClInclude Include="LRMob.h">
+      <Filter>Enemy\LRMob</Filter>
+    </ClInclude>
+    <ClInclude Include="BrokenHeart.h">
+      <Filter>Stage3Objects\BrokenHeart</Filter>
+    </ClInclude>
+    <ClInclude Include="SlowNiddle.h">
+      <Filter>Stage3Objects\SlowNiddle</Filter>
+    </ClInclude>
+    <ClInclude Include="RunEffect.h">
+      <Filter>Objects\Effects\RunEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="FiveFalling.h">
+      <Filter>Stage3Objects\FiveFalling</Filter>
+    </ClInclude>
+    <ClInclude Include="RidingNacho.h">
+      <Filter>Stage3Objects\RidingNacho</Filter>
+    </ClInclude>
+    <ClInclude Include="EndingSceneTwo.h">
+      <Filter>Game\GameScenes\EndingScene2</Filter>
+    </ClInclude>
+    <ClInclude Include="LandingEffect.h">
+      <Filter>Objects\Effects\LandingEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="WeightNumber.h">
+      <Filter>Objects\Effects\WeightNumber</Filter>
+    </ClInclude>
+    <ClInclude Include="TriggerDoor.h">
+      <Filter>Stage3Objects\TriggerDoor</Filter>
+    </ClInclude>
+    <ClInclude Include="TrapTile.h">
+      <Filter>Stage3Objects\TrapTile</Filter>
+    </ClInclude>
+    <ClInclude Include="EndingSceneOne.h">
+      <Filter>Game\GameScenes\EndingScene1</Filter>
+    </ClInclude>
+    <ClInclude Include="CreditScene.h">
+      <Filter>Game\GameScenes\CreditScene</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
